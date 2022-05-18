@@ -1,0 +1,2101 @@
+IMAGE	labels	is_valid
+agricultural00.tif	field trees	True
+agricultural01.tif	field	True
+agricultural02.tif	field	True
+agricultural03.tif	field	True
+agricultural04.tif	trees	True
+agricultural05.tif	field	True
+agricultural06.tif	field	True
+agricultural07.tif	field	True
+agricultural08.tif	field	True
+agricultural09.tif	field	True
+agricultural10.tif	field	True
+agricultural11.tif	field	True
+agricultural12.tif	field	True
+agricultural13.tif	field	True
+agricultural14.tif	field	True
+agricultural15.tif	field	True
+agricultural16.tif	field	True
+agricultural17.tif	field	True
+agricultural18.tif	field	True
+agricultural19.tif	field	True
+agricultural20.tif	field	True
+agricultural21.tif	trees	True
+agricultural22.tif	trees	True
+agricultural23.tif	trees	True
+agricultural24.tif	field	True
+agricultural25.tif	field	True
+agricultural26.tif	field	True
+agricultural27.tif	field	True
+agricultural28.tif	field	True
+agricultural29.tif	field	True
+agricultural30.tif	field	True
+agricultural31.tif	field	True
+agricultural32.tif	field	True
+agricultural33.tif	field	True
+agricultural34.tif	field	True
+agricultural35.tif	field	True
+agricultural36.tif	field	True
+agricultural37.tif	field	True
+agricultural38.tif	field	True
+agricultural39.tif	field	True
+agricultural40.tif	field	True
+agricultural41.tif	field	True
+agricultural42.tif	field	True
+agricultural43.tif	field	True
+agricultural44.tif	field	True
+agricultural45.tif	field	True
+agricultural46.tif	field	True
+agricultural47.tif	field	True
+agricultural48.tif	field	True
+agricultural49.tif	field	True
+agricultural50.tif	field	True
+agricultural51.tif	field	True
+agricultural52.tif	field	True
+agricultural53.tif	field	True
+agricultural54.tif	field	True
+agricultural55.tif	field	True
+agricultural56.tif	field	True
+agricultural57.tif	field	True
+agricultural58.tif	field	True
+agricultural59.tif	field	True
+agricultural60.tif	field	True
+agricultural61.tif	field trees	True
+agricultural62.tif	field	True
+agricultural63.tif	field	True
+agricultural64.tif	field	True
+agricultural65.tif	field	True
+agricultural66.tif	field	True
+agricultural67.tif	field	True
+agricultural68.tif	field	True
+agricultural69.tif	field	True
+agricultural70.tif	field	True
+agricultural71.tif	field	True
+agricultural72.tif	field	True
+agricultural73.tif	field	True
+agricultural74.tif	field	True
+agricultural75.tif	field	True
+agricultural76.tif	field	True
+agricultural77.tif	field	True
+agricultural78.tif	field	True
+agricultural79.tif	field	True
+agricultural80.tif	field	True
+agricultural81.tif	field	True
+agricultural82.tif	field	True
+agricultural83.tif	field	True
+agricultural84.tif	field	True
+agricultural85.tif	field	True
+agricultural86.tif	field	True
+agricultural87.tif	field	True
+agricultural88.tif	field	True
+agricultural89.tif	field	True
+agricultural90.tif	field	True
+agricultural91.tif	field	True
+agricultural92.tif	field	True
+agricultural93.tif	field	True
+agricultural94.tif	field	True
+agricultural95.tif	field	True
+agricultural96.tif	field	True
+agricultural97.tif	field	True
+agricultural98.tif	field	True
+agricultural99.tif	field	True
+airplane00.tif	airplane cars grass pavement	True
+airplane01.tif	airplane grass pavement	True
+airplane02.tif	airplane grass pavement	True
+airplane03.tif	airplane cars pavement	True
+airplane04.tif	airplane cars pavement	True
+airplane05.tif	airplane cars pavement	True
+airplane06.tif	airplane buildings cars pavement	True
+airplane07.tif	airplane buildings cars pavement	True
+airplane08.tif	airplane buildings cars pavement	True
+airplane09.tif	airplane cars pavement	True
+airplane10.tif	airplane buildings cars pavement	True
+airplane11.tif	airplane cars pavement	True
+airplane12.tif	airplane cars pavement	True
+airplane13.tif	airplane cars pavement	True
+airplane14.tif	airplane pavement	True
+airplane15.tif	airplane pavement	True
+airplane16.tif	airplane cars pavement	True
+airplane17.tif	airplane cars pavement	True
+airplane18.tif	airplane pavement	True
+airplane19.tif	airplane grass pavement	True
+airplane20.tif	airplane buildings cars grass pavement	True
+airplane21.tif	airplane buildings cars pavement	True
+airplane22.tif	airplane grass pavement	True
+airplane23.tif	airplane buildings cars pavement	True
+airplane24.tif	airplane buildings cars grass pavement	True
+airplane25.tif	airplane cars grass pavement	True
+airplane26.tif	airplane buildings cars pavement	True
+airplane27.tif	airplane buildings cars pavement	True
+airplane28.tif	airplane buildings cars pavement	True
+airplane29.tif	airplane buildings cars pavement	True
+airplane30.tif	airplane buildings pavement	True
+airplane31.tif	airplane grass pavement	True
+airplane32.tif	airplane cars pavement	True
+airplane33.tif	airplane cars pavement	True
+airplane34.tif	airplane cars pavement	True
+airplane35.tif	airplane cars grass pavement	True
+airplane36.tif	airplane buildings pavement	True
+airplane37.tif	airplane grass pavement	True
+airplane38.tif	airplane cars grass pavement	True
+airplane39.tif	airplane pavement	True
+airplane40.tif	airplane cars pavement	True
+airplane41.tif	airplane buildings cars pavement	True
+airplane42.tif	airplane pavement	True
+airplane43.tif	airplane pavement	True
+airplane44.tif	airplane cars pavement	True
+airplane45.tif	airplane pavement	True
+airplane46.tif	airplane buildings pavement	True
+airplane47.tif	airplane pavement	True
+airplane48.tif	airplane buildings cars pavement	True
+airplane49.tif	airplane buildings cars pavement	True
+airplane50.tif	airplane buildings cars pavement	True
+airplane51.tif	airplane buildings cars pavement	True
+airplane52.tif	airplane cars pavement	True
+airplane53.tif	airplane cars pavement	True
+airplane54.tif	airplane buildings cars pavement	True
+airplane55.tif	airplane buildings cars pavement	True
+airplane56.tif	airplane cars pavement	True
+airplane57.tif	airplane pavement trees	True
+airplane58.tif	airplane cars pavement	True
+airplane59.tif	airplane cars pavement	True
+airplane60.tif	airplane buildings cars pavement	True
+airplane61.tif	airplane cars pavement	True
+airplane62.tif	airplane cars pavement	True
+airplane63.tif	airplane cars pavement	True
+airplane64.tif	airplane cars pavement	True
+airplane65.tif	airplane cars pavement	True
+airplane66.tif	airplane cars pavement	True
+airplane67.tif	airplane cars pavement	True
+airplane68.tif	airplane cars pavement	True
+airplane69.tif	airplane buildings cars pavement	True
+airplane70.tif	airplane cars pavement	True
+airplane71.tif	airplane cars pavement	True
+airplane72.tif	airplane pavement	True
+airplane73.tif	airplane pavement	True
+airplane74.tif	airplane pavement	True
+airplane75.tif	airplane pavement	True
+airplane76.tif	airplane pavement	True
+airplane77.tif	airplane pavement	True
+airplane78.tif	airplane grass pavement	True
+airplane79.tif	airplane buildings pavement	True
+airplane80.tif	airplane pavement	True
+airplane81.tif	airplane buildings pavement	True
+airplane82.tif	airplane buildings cars pavement	True
+airplane83.tif	airplane pavement	True
+airplane84.tif	airplane pavement	True
+airplane85.tif	airplane buildings pavement	True
+airplane86.tif	airplane buildings pavement	True
+airplane87.tif	airplane cars pavement	True
+airplane88.tif	airplane pavement	True
+airplane89.tif	airplane cars pavement	True
+airplane90.tif	airplane pavement	True
+airplane91.tif	airplane cars pavement	True
+airplane92.tif	airplane buildings pavement	True
+airplane93.tif	airplane cars pavement	True
+airplane94.tif	airplane pavement	True
+airplane95.tif	airplane cars pavement	True
+airplane96.tif	airplane cars pavement	True
+airplane97.tif	airplane cars pavement	True
+airplane98.tif	airplane cars pavement	True
+airplane99.tif	airplane buildings cars pavement	True
+baseballdiamond00.tif	bare-soil grass pavement	True
+baseballdiamond01.tif	bare-soil buildings grass	True
+baseballdiamond02.tif	bare-soil grass pavement trees	True
+baseballdiamond03.tif	bare-soil grass	True
+baseballdiamond04.tif	bare-soil grass trees	True
+baseballdiamond05.tif	bare-soil grass pavement trees	True
+baseballdiamond06.tif	bare-soil grass pavement trees	True
+baseballdiamond07.tif	bare-soil grass	True
+baseballdiamond08.tif	bare-soil buildings grass pavement	True
+baseballdiamond09.tif	bare-soil grass pavement	True
+baseballdiamond10.tif	bare-soil grass trees	True
+baseballdiamond11.tif	bare-soil grass	True
+baseballdiamond12.tif	bare-soil buildings grass	True
+baseballdiamond13.tif	bare-soil grass	True
+baseballdiamond14.tif	bare-soil grass	True
+baseballdiamond15.tif	bare-soil buildings grass pavement	True
+baseballdiamond16.tif	bare-soil buildings grass trees	True
+baseballdiamond17.tif	bare-soil buildings grass pavement	True
+baseballdiamond18.tif	bare-soil buildings grass	True
+baseballdiamond19.tif	bare-soil buildings grass trees	True
+baseballdiamond20.tif	bare-soil buildings cars grass pavement trees	True
+baseballdiamond21.tif	bare-soil buildings	True
+baseballdiamond22.tif	bare-soil grass pavement	True
+baseballdiamond23.tif	bare-soil grass	True
+baseballdiamond24.tif	bare-soil grass	True
+baseballdiamond25.tif	bare-soil buildings grass pavement	True
+baseballdiamond26.tif	bare-soil grass trees	True
+baseballdiamond27.tif	bare-soil grass trees	True
+baseballdiamond28.tif	bare-soil buildings grass pavement trees	True
+baseballdiamond29.tif	bare-soil cars grass pavement trees	True
+baseballdiamond30.tif	bare-soil buildings grass trees	True
+baseballdiamond31.tif	bare-soil buildings grass	True
+baseballdiamond32.tif	bare-soil grass	True
+baseballdiamond33.tif	bare-soil grass	True
+baseballdiamond34.tif	bare-soil grass	True
+baseballdiamond35.tif	bare-soil buildings cars grass pavement	True
+baseballdiamond36.tif	bare-soil grass trees	True
+baseballdiamond37.tif	bare-soil buildings grass pavement trees	True
+baseballdiamond38.tif	bare-soil buildings grass trees	True
+baseballdiamond39.tif	bare-soil buildings grass pavement trees	True
+baseballdiamond40.tif	bare-soil cars grass pavement trees	True
+baseballdiamond41.tif	bare-soil buildings grass	True
+baseballdiamond42.tif	bare-soil buildings grass	True
+baseballdiamond43.tif	bare-soil grass trees	True
+baseballdiamond44.tif	bare-soil buildings grass pavement trees	True
+baseballdiamond45.tif	bare-soil buildings grass	True
+baseballdiamond46.tif	bare-soil buildings grass pavement trees	True
+baseballdiamond47.tif	bare-soil buildings cars grass pavement trees	True
+baseballdiamond48.tif	bare-soil buildings grass pavement	True
+baseballdiamond49.tif	bare-soil buildings grass pavement	True
+baseballdiamond50.tif	bare-soil buildings grass pavement	True
+baseballdiamond51.tif	bare-soil buildings grass pavement	True
+baseballdiamond52.tif	bare-soil buildings grass pavement	True
+baseballdiamond53.tif	bare-soil grass trees	True
+baseballdiamond54.tif	bare-soil grass trees	True
+baseballdiamond55.tif	bare-soil buildings grass pavement trees	True
+baseballdiamond56.tif	bare-soil buildings grass	True
+baseballdiamond57.tif	bare-soil grass trees	True
+baseballdiamond58.tif	bare-soil buildings grass trees	True
+baseballdiamond59.tif	bare-soil buildings cars pavement	True
+baseballdiamond60.tif	bare-soil buildings pavement	True
+baseballdiamond61.tif	bare-soil buildings pavement trees	True
+baseballdiamond62.tif	bare-soil buildings grass pavement trees	True
+baseballdiamond63.tif	bare-soil buildings grass pavement	True
+baseballdiamond64.tif	bare-soil buildings pavement trees	True
+baseballdiamond65.tif	bare-soil cars grass pavement	True
+baseballdiamond66.tif	bare-soil grass	True
+baseballdiamond67.tif	bare-soil grass	True
+baseballdiamond68.tif	bare-soil grass	True
+baseballdiamond69.tif	bare-soil grass	True
+baseballdiamond70.tif	bare-soil grass	True
+baseballdiamond71.tif	bare-soil grass pavement	True
+baseballdiamond72.tif	bare-soil cars grass pavement trees	True
+baseballdiamond73.tif	bare-soil grass	True
+baseballdiamond74.tif	bare-soil buildings cars grass	True
+baseballdiamond75.tif	bare-soil grass trees	True
+baseballdiamond76.tif	bare-soil grass	True
+baseballdiamond77.tif	bare-soil grass trees	True
+baseballdiamond78.tif	bare-soil grass trees	True
+baseballdiamond79.tif	bare-soil grass pavement trees	True
+baseballdiamond80.tif	bare-soil cars grass pavement trees	True
+baseballdiamond81.tif	bare-soil buildings grass pavement trees	True
+baseballdiamond82.tif	bare-soil buildings grass	True
+baseballdiamond83.tif	bare-soil grass	True
+baseballdiamond84.tif	bare-soil grass	True
+baseballdiamond85.tif	bare-soil buildings grass	True
+baseballdiamond86.tif	bare-soil buildings grass	True
+baseballdiamond87.tif	bare-soil buildings grass	True
+baseballdiamond88.tif	bare-soil grass trees	True
+baseballdiamond89.tif	bare-soil cars grass pavement	True
+baseballdiamond90.tif	bare-soil	True
+baseballdiamond91.tif	bare-soil buildings grass pavement trees	True
+baseballdiamond92.tif	bare-soil buildings grass trees	True
+baseballdiamond93.tif	bare-soil buildings grass trees	True
+baseballdiamond94.tif	bare-soil grass trees	True
+baseballdiamond95.tif	bare-soil cars grass pavement trees	True
+baseballdiamond96.tif	bare-soil buildings court grass pavement trees	True
+baseballdiamond97.tif	bare-soil buildings grass trees	True
+baseballdiamond98.tif	bare-soil buildings grass trees	True
+baseballdiamond99.tif	bare-soil buildings cars grass trees	True
+beach00.tif	sand sea	True
+beach01.tif	sand sea	True
+beach02.tif	sand sea	True
+beach03.tif	sand sea	True
+beach04.tif	sand sea	True
+beach05.tif	sand sea	True
+beach06.tif	sand sea	True
+beach07.tif	sand sea	True
+beach08.tif	sand sea	True
+beach09.tif	sand sea	True
+beach10.tif	sand sea	True
+beach11.tif	sand sea	True
+beach12.tif	sand sea	True
+beach13.tif	sand sea	True
+beach14.tif	sand sea	True
+beach15.tif	sand sea	True
+beach16.tif	sand sea	True
+beach17.tif	sand sea	True
+beach18.tif	sand sea	True
+beach19.tif	sand sea	True
+beach20.tif	sand sea trees	True
+beach21.tif	sand sea	True
+beach22.tif	sand sea	True
+beach23.tif	sand sea	True
+beach24.tif	sand sea	True
+beach25.tif	sand sea	True
+beach26.tif	sand sea	True
+beach27.tif	sand sea	True
+beach28.tif	pavement sand sea	True
+beach29.tif	sand sea	True
+beach30.tif	sand sea	True
+beach31.tif	sand sea	True
+beach32.tif	sand sea	True
+beach33.tif	sand sea	True
+beach34.tif	sand sea	True
+beach35.tif	sand sea	True
+beach36.tif	sand sea	True
+beach37.tif	sand sea	True
+beach38.tif	sand sea	True
+beach39.tif	cars sand sea	True
+beach40.tif	cars sand sea	True
+beach41.tif	cars pavement sand sea trees	True
+beach42.tif	grass pavement sand sea trees	True
+beach43.tif	sand sea	True
+beach44.tif	sand sea	True
+beach45.tif	sand sea	True
+beach46.tif	sand sea	True
+beach47.tif	sand sea	True
+beach48.tif	sand sea	True
+beach49.tif	sand sea	True
+beach50.tif	sand sea	True
+beach51.tif	sand sea	True
+beach52.tif	sand sea	True
+beach53.tif	sand sea	True
+beach54.tif	sand sea	True
+beach55.tif	sand sea	True
+beach56.tif	sand sea	True
+beach57.tif	sand sea	True
+beach58.tif	sand sea trees	True
+beach59.tif	sand sea	True
+beach60.tif	sand sea	True
+beach61.tif	sand sea	True
+beach62.tif	sand sea	True
+beach63.tif	sand sea	True
+beach64.tif	sand sea	True
+beach65.tif	sand sea	True
+beach66.tif	sand sea	True
+beach67.tif	sand sea	True
+beach68.tif	sand sea	True
+beach69.tif	sand sea	True
+beach70.tif	sand sea	True
+beach71.tif	sand sea	True
+beach72.tif	sand sea	True
+beach73.tif	sand sea	True
+beach74.tif	sand sea	True
+beach75.tif	sand sea	True
+beach76.tif	sand sea	True
+beach77.tif	sand sea	True
+beach78.tif	sand sea	True
+beach79.tif	sand sea	True
+beach80.tif	sand sea	True
+beach81.tif	sand sea	True
+beach82.tif	sand sea	True
+beach83.tif	sand sea	True
+beach84.tif	sand sea	True
+beach85.tif	sand sea	True
+beach86.tif	sand sea	True
+beach87.tif	sand sea	True
+beach88.tif	sand sea	True
+beach89.tif	sand sea	True
+beach90.tif	sand sea	True
+beach91.tif	sand sea	True
+beach92.tif	sand sea	True
+beach93.tif	sand sea	True
+beach94.tif	sand sea	True
+beach95.tif	sand sea	True
+beach96.tif	sand sea	True
+beach97.tif	sand sea	True
+beach98.tif	sand sea	True
+beach99.tif	sand sea	True
+buildings00.tif	buildings cars pavement	True
+buildings01.tif	buildings pavement	True
+buildings02.tif	buildings cars pavement	True
+buildings03.tif	buildings cars pavement trees	True
+buildings04.tif	buildings pavement	True
+buildings05.tif	buildings cars pavement	True
+buildings06.tif	buildings cars pavement trees	True
+buildings07.tif	buildings pavement	True
+buildings08.tif	buildings cars pavement trees	True
+buildings09.tif	buildings cars pavement	True
+buildings10.tif	buildings cars pavement	True
+buildings11.tif	buildings cars pavement trees	True
+buildings12.tif	buildings pavement trees	True
+buildings13.tif	buildings cars pavement trees	True
+buildings14.tif	buildings cars pavement trees	True
+buildings15.tif	buildings trees	True
+buildings16.tif	buildings trees	True
+buildings17.tif	buildings pavement trees	True
+buildings18.tif	buildings pavement	True
+buildings19.tif	buildings trees	True
+buildings20.tif	buildings trees	True
+buildings21.tif	buildings trees	True
+buildings22.tif	buildings trees	True
+buildings23.tif	buildings	True
+buildings24.tif	buildings pavement	True
+buildings25.tif	buildings pavement	True
+buildings26.tif	buildings cars pavement trees	True
+buildings27.tif	buildings cars pavement	True
+buildings28.tif	buildings cars pavement	True
+buildings29.tif	buildings pavement trees	True
+buildings30.tif	buildings cars grass pavement trees	True
+buildings31.tif	buildings cars pavement trees	True
+buildings32.tif	buildings cars pavement trees	True
+buildings33.tif	buildings pavement trees	True
+buildings34.tif	buildings pavement trees	True
+buildings35.tif	buildings cars pavement	True
+buildings36.tif	buildings cars pavement trees	True
+buildings37.tif	buildings cars pavement trees	True
+buildings38.tif	buildings pavement	True
+buildings39.tif	buildings grass pavement trees	True
+buildings40.tif	buildings trees	True
+buildings41.tif	bare-soil buildings	True
+buildings42.tif	bare-soil buildings trees	True
+buildings43.tif	buildings cars pavement trees	True
+buildings44.tif	buildings pavement	True
+buildings45.tif	buildings pavement trees	True
+buildings46.tif	buildings trees	True
+buildings47.tif	buildings trees	True
+buildings48.tif	buildings trees	True
+buildings49.tif	buildings pavement trees	True
+buildings50.tif	buildings pavement trees	True
+buildings51.tif	buildings grass	True
+buildings52.tif	buildings grass	True
+buildings53.tif	buildings cars grass pavement	True
+buildings54.tif	buildings	True
+buildings55.tif	buildings pavement trees	True
+buildings56.tif	buildings grass	True
+buildings57.tif	buildings grass pavement trees	True
+buildings58.tif	buildings cars grass pavement trees	True
+buildings59.tif	buildings pavement trees	True
+buildings60.tif	buildings grass pavement trees	True
+buildings61.tif	buildings cars grass	True
+buildings62.tif	buildings pavement	True
+buildings63.tif	buildings cars grass pavement	True
+buildings64.tif	buildings grass	True
+buildings65.tif	buildings	True
+buildings66.tif	buildings cars pavement trees	True
+buildings67.tif	buildings grass pavement trees	True
+buildings68.tif	buildings cars pavement	True
+buildings69.tif	buildings cars pavement	True
+buildings70.tif	buildings cars pavement trees	True
+buildings71.tif	buildings grass trees	True
+buildings72.tif	buildings grass trees	True
+buildings73.tif	buildings cars grass pavement trees	True
+buildings74.tif	buildings grass pavement trees	True
+buildings75.tif	buildings cars pavement trees	True
+buildings76.tif	buildings cars grass pavement trees	True
+buildings77.tif	buildings grass	True
+buildings78.tif	buildings cars pavement	True
+buildings79.tif	buildings cars grass pavement trees	True
+buildings80.tif	buildings cars grass pavement	True
+buildings81.tif	buildings cars pavement	True
+buildings82.tif	buildings pavement	True
+buildings83.tif	buildings pavement	True
+buildings84.tif	buildings cars grass pavement trees	True
+buildings85.tif	buildings grass	True
+buildings86.tif	bare-soil buildings	True
+buildings87.tif	bare-soil buildings	True
+buildings88.tif	buildings cars pavement	True
+buildings89.tif	buildings cars pavement trees	True
+buildings90.tif	buildings cars pavement trees	True
+buildings91.tif	buildings cars pavement trees	True
+buildings92.tif	buildings trees	True
+buildings93.tif	buildings grass pavement	True
+buildings94.tif	buildings cars grass pavement	True
+buildings95.tif	bare-soil buildings pavement	True
+buildings96.tif	buildings pavement	True
+buildings97.tif	buildings pavement trees	True
+buildings98.tif	buildings	True
+buildings99.tif	buildings	True
+chaparral00.tif	bare-soil chaparral	True
+chaparral01.tif	bare-soil chaparral	True
+chaparral02.tif	bare-soil chaparral	True
+chaparral03.tif	bare-soil chaparral	True
+chaparral04.tif	bare-soil chaparral	True
+chaparral05.tif	bare-soil chaparral	True
+chaparral06.tif	bare-soil chaparral	True
+chaparral07.tif	bare-soil chaparral	True
+chaparral08.tif	bare-soil chaparral	True
+chaparral09.tif	bare-soil chaparral	True
+chaparral10.tif	bare-soil chaparral	True
+chaparral11.tif	bare-soil chaparral	True
+chaparral12.tif	bare-soil chaparral	True
+chaparral13.tif	bare-soil chaparral	True
+chaparral14.tif	bare-soil chaparral	True
+chaparral15.tif	bare-soil chaparral	True
+chaparral16.tif	bare-soil chaparral	True
+chaparral17.tif	bare-soil chaparral	True
+chaparral18.tif	bare-soil chaparral	True
+chaparral19.tif	bare-soil chaparral	True
+chaparral20.tif	bare-soil chaparral	True
+chaparral21.tif	bare-soil chaparral	True
+chaparral22.tif	bare-soil chaparral	True
+chaparral23.tif	bare-soil chaparral	True
+chaparral24.tif	bare-soil chaparral	True
+chaparral25.tif	bare-soil chaparral	True
+chaparral26.tif	bare-soil chaparral	True
+chaparral27.tif	bare-soil chaparral	True
+chaparral28.tif	bare-soil chaparral	True
+chaparral29.tif	bare-soil chaparral	True
+chaparral30.tif	bare-soil chaparral	True
+chaparral31.tif	bare-soil chaparral	True
+chaparral32.tif	bare-soil chaparral	True
+chaparral33.tif	bare-soil chaparral	True
+chaparral34.tif	bare-soil chaparral	True
+chaparral35.tif	bare-soil chaparral	True
+chaparral36.tif	bare-soil chaparral	True
+chaparral37.tif	bare-soil chaparral	True
+chaparral38.tif	bare-soil chaparral	True
+chaparral39.tif	bare-soil chaparral	True
+chaparral40.tif	bare-soil chaparral	True
+chaparral41.tif	bare-soil chaparral	True
+chaparral42.tif	bare-soil chaparral	True
+chaparral43.tif	bare-soil chaparral	True
+chaparral44.tif	bare-soil chaparral	True
+chaparral45.tif	bare-soil chaparral	True
+chaparral46.tif	bare-soil chaparral	True
+chaparral47.tif	bare-soil chaparral	True
+chaparral48.tif	bare-soil chaparral	True
+chaparral49.tif	bare-soil chaparral	True
+chaparral50.tif	bare-soil chaparral	True
+chaparral51.tif	bare-soil chaparral	True
+chaparral52.tif	bare-soil chaparral	True
+chaparral53.tif	bare-soil chaparral	True
+chaparral54.tif	bare-soil chaparral	True
+chaparral55.tif	bare-soil chaparral	True
+chaparral56.tif	bare-soil chaparral	True
+chaparral57.tif	bare-soil chaparral	True
+chaparral58.tif	bare-soil chaparral	True
+chaparral59.tif	bare-soil chaparral	True
+chaparral60.tif	bare-soil	True
+chaparral61.tif	bare-soil	True
+chaparral62.tif	bare-soil	True
+chaparral63.tif	bare-soil	True
+chaparral64.tif	bare-soil	True
+chaparral65.tif	bare-soil	True
+chaparral66.tif	bare-soil	True
+chaparral67.tif	bare-soil chaparral	True
+chaparral68.tif	bare-soil chaparral	True
+chaparral69.tif	bare-soil chaparral	True
+chaparral70.tif	bare-soil chaparral	True
+chaparral71.tif	bare-soil chaparral	True
+chaparral72.tif	bare-soil chaparral	True
+chaparral73.tif	bare-soil chaparral	True
+chaparral74.tif	bare-soil chaparral	True
+chaparral75.tif	bare-soil chaparral	True
+chaparral76.tif	bare-soil chaparral	True
+chaparral77.tif	bare-soil chaparral	True
+chaparral78.tif	bare-soil chaparral	True
+chaparral79.tif	bare-soil chaparral	True
+chaparral80.tif	bare-soil chaparral	True
+chaparral81.tif	bare-soil chaparral	True
+chaparral82.tif	bare-soil chaparral	True
+chaparral83.tif	bare-soil chaparral	True
+chaparral84.tif	bare-soil chaparral	True
+chaparral85.tif	bare-soil chaparral	True
+chaparral86.tif	bare-soil chaparral	True
+chaparral87.tif	bare-soil chaparral	True
+chaparral88.tif	bare-soil chaparral	True
+chaparral89.tif	bare-soil chaparral	True
+chaparral90.tif	bare-soil chaparral	True
+chaparral91.tif	bare-soil chaparral	True
+chaparral92.tif	bare-soil chaparral	True
+chaparral93.tif	bare-soil chaparral	True
+chaparral94.tif	bare-soil chaparral	True
+chaparral95.tif	bare-soil chaparral	True
+chaparral96.tif	bare-soil chaparral	True
+chaparral97.tif	bare-soil chaparral	True
+chaparral98.tif	bare-soil chaparral	True
+chaparral99.tif	bare-soil chaparral	True
+denseresidential00.tif	bare-soil buildings pavement trees	True
+denseresidential01.tif	buildings cars grass pavement	True
+denseresidential02.tif	buildings cars grass pavement trees	True
+denseresidential03.tif	buildings cars grass pavement trees	True
+denseresidential04.tif	buildings cars pavement trees	True
+denseresidential05.tif	buildings cars pavement	True
+denseresidential06.tif	buildings pavement	True
+denseresidential07.tif	buildings pavement	True
+denseresidential08.tif	bare-soil buildings pavement trees	True
+denseresidential09.tif	bare-soil buildings cars grass pavement trees	True
+denseresidential10.tif	bare-soil buildings cars grass pavement trees	True
+denseresidential11.tif	buildings pavement trees	True
+denseresidential12.tif	buildings cars pavement trees	True
+denseresidential13.tif	buildings cars pavement trees	True
+denseresidential14.tif	bare-soil buildings cars pavement trees	True
+denseresidential15.tif	bare-soil buildings cars pavement	True
+denseresidential16.tif	buildings trees	True
+denseresidential17.tif	buildings pavement trees	True
+denseresidential18.tif	bare-soil buildings cars pavement trees	True
+denseresidential19.tif	buildings trees	True
+denseresidential20.tif	buildings grass pavement trees	True
+denseresidential21.tif	buildings grass trees	True
+denseresidential22.tif	buildings grass trees	True
+denseresidential23.tif	buildings grass pavement trees	True
+denseresidential24.tif	buildings grass pavement trees	True
+denseresidential25.tif	buildings grass trees	True
+denseresidential26.tif	bare-soil buildings cars pavement	True
+denseresidential27.tif	bare-soil buildings cars pavement trees	True
+denseresidential28.tif	bare-soil buildings cars pavement trees	True
+denseresidential29.tif	bare-soil buildings cars pavement trees	True
+denseresidential30.tif	buildings cars grass pavement trees	True
+denseresidential31.tif	bare-soil buildings grass pavement trees	True
+denseresidential32.tif	buildings cars grass pavement trees	True
+denseresidential33.tif	bare-soil buildings cars pavement trees	True
+denseresidential34.tif	bare-soil buildings cars pavement trees	True
+denseresidential35.tif	bare-soil buildings cars pavement trees	True
+denseresidential36.tif	bare-soil buildings cars pavement trees	True
+denseresidential37.tif	bare-soil buildings pavement trees	True
+denseresidential38.tif	bare-soil buildings trees	True
+denseresidential39.tif	bare-soil buildings cars pavement	True
+denseresidential40.tif	buildings cars pavement	True
+denseresidential41.tif	buildings cars grass pavement trees	True
+denseresidential42.tif	buildings cars pavement trees	True
+denseresidential43.tif	buildings cars grass pavement trees	True
+denseresidential44.tif	buildings grass pavement trees	True
+denseresidential45.tif	buildings pavement trees	True
+denseresidential46.tif	buildings cars pavement trees	True
+denseresidential47.tif	buildings cars pavement	True
+denseresidential48.tif	buildings cars pavement trees	True
+denseresidential49.tif	buildings cars pavement trees	True
+denseresidential50.tif	buildings grass pavement	True
+denseresidential51.tif	buildings cars grass pavement trees	True
+denseresidential52.tif	buildings grass pavement	True
+denseresidential53.tif	buildings cars grass pavement trees	True
+denseresidential54.tif	buildings cars pavement trees	True
+denseresidential55.tif	buildings cars grass pavement trees	True
+denseresidential56.tif	buildings cars grass pavement trees	True
+denseresidential57.tif	buildings cars grass pavement trees	True
+denseresidential58.tif	buildings cars grass pavement	True
+denseresidential59.tif	buildings cars grass pavement trees	True
+denseresidential60.tif	buildings pavement trees	True
+denseresidential61.tif	buildings cars grass pavement trees	True
+denseresidential62.tif	buildings grass pavement trees	True
+denseresidential63.tif	buildings grass pavement	True
+denseresidential64.tif	buildings grass pavement	True
+denseresidential65.tif	buildings cars pavement trees	True
+denseresidential66.tif	buildings cars grass trees	True
+denseresidential67.tif	buildings trees	True
+denseresidential68.tif	buildings cars grass pavement trees	True
+denseresidential69.tif	buildings grass trees	True
+denseresidential70.tif	buildings grass pavement trees	True
+denseresidential71.tif	buildings cars grass pavement trees	True
+denseresidential72.tif	buildings cars grass pavement	True
+denseresidential73.tif	buildings pavement trees	True
+denseresidential74.tif	buildings cars grass pavement	True
+denseresidential75.tif	buildings grass pavement	True
+denseresidential76.tif	buildings cars grass pavement	True
+denseresidential77.tif	buildings grass pavement	True
+denseresidential78.tif	buildings cars grass pavement	True
+denseresidential79.tif	bare-soil buildings cars grass pavement	True
+denseresidential80.tif	buildings grass pavement trees	True
+denseresidential81.tif	buildings cars grass pavement trees	True
+denseresidential82.tif	buildings cars grass pavement trees	True
+denseresidential83.tif	buildings cars grass pavement trees	True
+denseresidential84.tif	bare-soil buildings cars grass	True
+denseresidential85.tif	buildings cars pavement trees	True
+denseresidential86.tif	buildings cars grass pavement trees	True
+denseresidential87.tif	bare-soil buildings cars grass pavement trees	True
+denseresidential88.tif	bare-soil buildings cars pavement trees	True
+denseresidential89.tif	bare-soil buildings cars pavement trees	True
+denseresidential90.tif	buildings cars pavement trees	True
+denseresidential91.tif	bare-soil buildings cars pavement	True
+denseresidential92.tif	bare-soil buildings cars pavement trees	True
+denseresidential93.tif	bare-soil buildings cars pavement trees	True
+denseresidential94.tif	bare-soil buildings cars pavement trees	True
+denseresidential95.tif	bare-soil buildings cars pavement trees	True
+denseresidential96.tif	bare-soil buildings cars pavement trees	True
+denseresidential97.tif	bare-soil buildings cars grass trees	True
+denseresidential98.tif	buildings cars grass pavement trees	True
+denseresidential99.tif	buildings grass pavement trees	True
+forest00.tif	trees	True
+forest01.tif	trees	True
+forest02.tif	trees	True
+forest03.tif	trees	True
+forest04.tif	trees	True
+forest05.tif	trees	True
+forest06.tif	trees	True
+forest07.tif	trees	True
+forest08.tif	buildings grass trees	True
+forest09.tif	trees	True
+forest10.tif	trees	True
+forest11.tif	trees	True
+forest12.tif	trees	True
+forest13.tif	trees	True
+forest14.tif	trees	True
+forest15.tif	trees	True
+forest16.tif	trees	True
+forest17.tif	trees	True
+forest18.tif	trees	True
+forest19.tif	trees	True
+forest20.tif	trees	True
+forest21.tif	trees	True
+forest22.tif	trees	True
+forest23.tif	trees	True
+forest24.tif	trees	True
+forest25.tif	trees	True
+forest26.tif	trees	True
+forest27.tif	trees	True
+forest28.tif	trees	True
+forest29.tif	trees	True
+forest30.tif	trees	True
+forest31.tif	trees	True
+forest32.tif	trees	True
+forest33.tif	trees	True
+forest34.tif	trees	True
+forest35.tif	trees	True
+forest36.tif	trees	True
+forest37.tif	trees	True
+forest38.tif	trees	True
+forest39.tif	trees	True
+forest40.tif	trees	True
+forest41.tif	trees	True
+forest42.tif	trees	True
+forest43.tif	trees	True
+forest44.tif	trees	True
+forest45.tif	trees	True
+forest46.tif	trees	True
+forest47.tif	trees	True
+forest48.tif	trees	True
+forest49.tif	trees	True
+forest50.tif	trees	True
+forest51.tif	trees	True
+forest52.tif	trees	True
+forest53.tif	trees	True
+forest54.tif	trees	True
+forest55.tif	trees	True
+forest56.tif	trees	True
+forest57.tif	trees	True
+forest58.tif	trees	True
+forest59.tif	trees	True
+forest60.tif	trees	True
+forest61.tif	trees	True
+forest62.tif	trees	True
+forest63.tif	trees	True
+forest64.tif	trees	True
+forest65.tif	trees	True
+forest66.tif	trees	True
+forest67.tif	trees	True
+forest68.tif	trees	True
+forest69.tif	trees	True
+forest70.tif	trees	True
+forest71.tif	trees	True
+forest72.tif	trees	True
+forest73.tif	trees	True
+forest74.tif	trees	True
+forest75.tif	trees	True
+forest76.tif	trees	True
+forest77.tif	trees	True
+forest78.tif	trees	True
+forest79.tif	trees	True
+forest80.tif	trees	True
+forest81.tif	trees	True
+forest82.tif	trees	True
+forest83.tif	trees	True
+forest84.tif	trees	True
+forest85.tif	trees	True
+forest86.tif	trees	True
+forest87.tif	trees	True
+forest88.tif	trees	True
+forest89.tif	trees	True
+forest90.tif	trees	True
+forest91.tif	trees	True
+forest92.tif	trees	True
+forest93.tif	trees	True
+forest94.tif	trees	True
+forest95.tif	trees	True
+forest96.tif	trees	True
+forest97.tif	trees	True
+forest98.tif	trees	True
+forest99.tif	trees	True
+freeway00.tif	cars grass pavement trees	True
+freeway01.tif	bare-soil cars pavement trees	True
+freeway02.tif	bare-soil cars pavement trees	True
+freeway03.tif	bare-soil cars pavement trees	True
+freeway04.tif	cars grass pavement	True
+freeway05.tif	bare-soil cars pavement trees	True
+freeway06.tif	bare-soil cars grass pavement trees	True
+freeway07.tif	bare-soil cars grass pavement trees	True
+freeway08.tif	bare-soil cars grass pavement trees	True
+freeway09.tif	cars pavement trees	True
+freeway10.tif	cars grass pavement trees	True
+freeway11.tif	bare-soil cars pavement	True
+freeway12.tif	cars pavement trees	True
+freeway13.tif	cars grass pavement	True
+freeway14.tif	cars grass pavement trees	True
+freeway15.tif	cars grass pavement trees	True
+freeway16.tif	cars grass pavement trees	True
+freeway17.tif	cars grass pavement trees	True
+freeway18.tif	cars grass pavement trees	True
+freeway19.tif	cars grass pavement	True
+freeway20.tif	cars grass pavement	True
+freeway21.tif	cars grass pavement	True
+freeway22.tif	bare-soil cars grass pavement	True
+freeway23.tif	cars grass pavement	True
+freeway24.tif	cars pavement trees	True
+freeway25.tif	cars grass pavement trees	True
+freeway26.tif	cars grass pavement	True
+freeway27.tif	cars grass pavement	True
+freeway28.tif	bare-soil cars grass pavement	True
+freeway29.tif	cars grass pavement	True
+freeway30.tif	cars grass pavement	True
+freeway31.tif	cars grass pavement	True
+freeway32.tif	cars grass pavement	True
+freeway33.tif	cars grass pavement trees	True
+freeway34.tif	cars grass pavement trees	True
+freeway35.tif	cars grass pavement	True
+freeway36.tif	cars grass pavement	True
+freeway37.tif	cars grass pavement	True
+freeway38.tif	cars grass pavement	True
+freeway39.tif	cars grass pavement	True
+freeway40.tif	cars grass pavement	True
+freeway41.tif	cars grass pavement	True
+freeway42.tif	bare-soil cars pavement	True
+freeway43.tif	bare-soil cars pavement	True
+freeway44.tif	bare-soil cars pavement	True
+freeway45.tif	bare-soil cars pavement	True
+freeway46.tif	bare-soil cars pavement	True
+freeway47.tif	bare-soil cars pavement	True
+freeway48.tif	bare-soil cars pavement	True
+freeway49.tif	bare-soil cars pavement	True
+freeway50.tif	bare-soil cars pavement	True
+freeway51.tif	bare-soil cars pavement	True
+freeway52.tif	bare-soil cars pavement	True
+freeway53.tif	bare-soil cars pavement	True
+freeway54.tif	bare-soil cars pavement trees	True
+freeway55.tif	bare-soil cars pavement	True
+freeway56.tif	bare-soil pavement trees	True
+freeway57.tif	bare-soil cars pavement	True
+freeway58.tif	bare-soil cars chaparral pavement	True
+freeway59.tif	bare-soil cars pavement	True
+freeway60.tif	bare-soil cars chaparral pavement trees	True
+freeway61.tif	bare-soil chaparral pavement	True
+freeway62.tif	bare-soil chaparral pavement trees	True
+freeway63.tif	bare-soil cars chaparral pavement trees	True
+freeway64.tif	cars grass pavement trees	True
+freeway65.tif	cars grass pavement trees	True
+freeway66.tif	cars grass pavement trees	True
+freeway67.tif	cars pavement trees	True
+freeway68.tif	bare-soil cars pavement trees	True
+freeway69.tif	cars pavement trees	True
+freeway70.tif	bare-soil cars pavement trees	True
+freeway71.tif	cars grass pavement trees	True
+freeway72.tif	cars grass pavement trees	True
+freeway73.tif	cars grass pavement trees	True
+freeway74.tif	cars grass pavement	True
+freeway75.tif	bare-soil cars grass pavement	True
+freeway76.tif	cars pavement trees	True
+freeway77.tif	cars grass pavement	True
+freeway78.tif	cars grass pavement	True
+freeway79.tif	buildings cars grass pavement trees	True
+freeway80.tif	bare-soil buildings cars grass pavement	True
+freeway81.tif	bare-soil cars grass pavement trees	True
+freeway82.tif	cars grass pavement	True
+freeway83.tif	bare-soil cars pavement trees	True
+freeway84.tif	bare-soil cars pavement	True
+freeway85.tif	bare-soil cars grass pavement	True
+freeway86.tif	bare-soil cars pavement	True
+freeway87.tif	bare-soil cars pavement	True
+freeway88.tif	bare-soil cars pavement	True
+freeway89.tif	bare-soil cars grass pavement	True
+freeway90.tif	bare-soil cars grass pavement	True
+freeway91.tif	cars grass pavement trees	True
+freeway92.tif	cars grass pavement trees	True
+freeway93.tif	bare-soil chaparral pavement trees	True
+freeway94.tif	bare-soil cars chaparral pavement trees	True
+freeway95.tif	bare-soil chaparral pavement trees	True
+freeway96.tif	bare-soil cars grass pavement trees	True
+freeway97.tif	bare-soil cars grass pavement trees	True
+freeway98.tif	bare-soil cars pavement trees	True
+freeway99.tif	bare-soil cars grass pavement trees	True
+golfcourse00.tif	grass trees	True
+golfcourse01.tif	grass trees	True
+golfcourse02.tif	grass pavement sand trees	True
+golfcourse03.tif	grass sand trees	True
+golfcourse04.tif	grass sand trees	True
+golfcourse05.tif	grass sand trees	True
+golfcourse06.tif	bare-soil grass sand trees	True
+golfcourse07.tif	bare-soil grass trees	True
+golfcourse08.tif	bare-soil grass trees	True
+golfcourse09.tif	bare-soil grass sand trees	True
+golfcourse10.tif	bare-soil grass sand trees	True
+golfcourse11.tif	grass trees	True
+golfcourse12.tif	bare-soil grass pavement sand trees	True
+golfcourse13.tif	grass pavement trees	True
+golfcourse14.tif	grass pavement trees	True
+golfcourse15.tif	grass sand trees	True
+golfcourse16.tif	grass sand trees	True
+golfcourse17.tif	grass pavement trees	True
+golfcourse18.tif	grass sand trees	True
+golfcourse19.tif	bare-soil grass pavement sand trees	True
+golfcourse20.tif	grass pavement sand trees	True
+golfcourse21.tif	grass pavement trees	True
+golfcourse22.tif	grass pavement sand trees	True
+golfcourse23.tif	grass pavement sand trees	True
+golfcourse24.tif	grass pavement sand trees	True
+golfcourse25.tif	grass pavement sand trees	True
+golfcourse26.tif	bare-soil grass pavement sand	True
+golfcourse27.tif	bare-soil grass pavement sand	True
+golfcourse28.tif	bare-soil grass sand	True
+golfcourse29.tif	bare-soil grass	True
+golfcourse30.tif	bare-soil grass pavement sand	True
+golfcourse31.tif	bare-soil grass	True
+golfcourse32.tif	bare-soil grass pavement sand	True
+golfcourse33.tif	bare-soil grass sand	True
+golfcourse34.tif	bare-soil grass sand	True
+golfcourse35.tif	bare-soil grass pavement sand	True
+golfcourse36.tif	bare-soil grass sand	True
+golfcourse37.tif	bare-soil grass pavement sand	True
+golfcourse38.tif	bare-soil grass	True
+golfcourse39.tif	bare-soil grass pavement sand	True
+golfcourse40.tif	bare-soil grass sand	True
+golfcourse41.tif	bare-soil grass pavement sand	True
+golfcourse42.tif	bare-soil grass pavement sand trees	True
+golfcourse43.tif	bare-soil grass pavement sand trees	True
+golfcourse44.tif	grass pavement sand	True
+golfcourse45.tif	bare-soil grass pavement sand trees	True
+golfcourse46.tif	bare-soil grass trees	True
+golfcourse47.tif	bare-soil grass pavement trees	True
+golfcourse48.tif	bare-soil grass pavement trees	True
+golfcourse49.tif	bare-soil grass pavement sand trees	True
+golfcourse50.tif	bare-soil grass pavement sand	True
+golfcourse51.tif	bare-soil grass sand trees	True
+golfcourse52.tif	bare-soil grass pavement sand trees	True
+golfcourse53.tif	bare-soil grass trees	True
+golfcourse54.tif	bare-soil grass pavement sand trees	True
+golfcourse55.tif	bare-soil grass pavement sand trees	True
+golfcourse56.tif	bare-soil grass pavement trees	True
+golfcourse57.tif	bare-soil grass pavement sand	True
+golfcourse58.tif	bare-soil grass pavement sand	True
+golfcourse59.tif	bare-soil grass pavement	True
+golfcourse60.tif	bare-soil grass pavement sand trees	True
+golfcourse61.tif	grass pavement sand	True
+golfcourse62.tif	grass pavement sand	True
+golfcourse63.tif	grass pavement sand	True
+golfcourse64.tif	bare-soil grass	True
+golfcourse65.tif	bare-soil grass pavement sand	True
+golfcourse66.tif	bare-soil grass pavement	True
+golfcourse67.tif	grass pavement sand	True
+golfcourse68.tif	bare-soil grass pavement sand	True
+golfcourse69.tif	grass pavement sand	True
+golfcourse70.tif	grass sand trees	True
+golfcourse71.tif	grass pavement trees	True
+golfcourse72.tif	grass pavement sand trees	True
+golfcourse73.tif	grass pavement sand trees	True
+golfcourse74.tif	bare-soil grass pavement trees	True
+golfcourse75.tif	grass pavement sand trees	True
+golfcourse76.tif	grass pavement sand trees	True
+golfcourse77.tif	grass pavement trees	True
+golfcourse78.tif	grass pavement sand trees	True
+golfcourse79.tif	grass sand trees	True
+golfcourse80.tif	grass pavement trees	True
+golfcourse81.tif	grass pavement sand trees	True
+golfcourse82.tif	grass pavement sand trees	True
+golfcourse83.tif	grass pavement sand trees	True
+golfcourse84.tif	grass pavement trees	True
+golfcourse85.tif	grass pavement sand trees	True
+golfcourse86.tif	grass pavement sand trees	True
+golfcourse87.tif	grass pavement sand trees	True
+golfcourse88.tif	grass pavement sand trees	True
+golfcourse89.tif	grass pavement sand	True
+golfcourse90.tif	grass pavement sand trees	True
+golfcourse91.tif	grass pavement sand trees	True
+golfcourse92.tif	bare-soil grass pavement trees	True
+golfcourse93.tif	grass pavement sand trees	True
+golfcourse94.tif	grass pavement sand trees	True
+golfcourse95.tif	bare-soil grass pavement sand trees	True
+golfcourse96.tif	grass sand trees	True
+golfcourse97.tif	grass trees	True
+golfcourse98.tif	grass sand trees	True
+golfcourse99.tif	grass sand	True
+harbor00.tif	dock ship water	True
+harbor01.tif	dock ship water	True
+harbor02.tif	dock ship water	True
+harbor03.tif	dock ship water	True
+harbor04.tif	dock ship water	True
+harbor05.tif	dock ship water	True
+harbor06.tif	dock ship water	True
+harbor07.tif	dock ship water	True
+harbor08.tif	dock ship water	True
+harbor09.tif	dock ship water	True
+harbor10.tif	dock ship water	True
+harbor11.tif	dock ship water	True
+harbor12.tif	dock ship water	True
+harbor13.tif	dock ship water	True
+harbor14.tif	dock ship water	True
+harbor15.tif	dock ship water	True
+harbor16.tif	dock ship water	True
+harbor17.tif	dock ship water	True
+harbor18.tif	dock ship water	True
+harbor19.tif	dock ship water	True
+harbor20.tif	dock ship water	True
+harbor21.tif	dock ship water	True
+harbor22.tif	dock ship water	True
+harbor23.tif	dock ship water	True
+harbor24.tif	dock ship water	True
+harbor25.tif	dock ship water	True
+harbor26.tif	dock ship water	True
+harbor27.tif	dock ship water	True
+harbor28.tif	dock ship water	True
+harbor29.tif	dock ship water	True
+harbor30.tif	dock ship water	True
+harbor31.tif	dock ship water	True
+harbor32.tif	dock ship water	True
+harbor33.tif	dock ship water	True
+harbor34.tif	dock ship water	True
+harbor35.tif	dock ship water	True
+harbor36.tif	dock ship water	True
+harbor37.tif	dock ship water	True
+harbor38.tif	dock ship water	True
+harbor39.tif	dock ship water	True
+harbor40.tif	dock ship water	True
+harbor41.tif	dock ship water	True
+harbor42.tif	dock ship water	True
+harbor43.tif	dock ship water	True
+harbor44.tif	dock ship water	True
+harbor45.tif	dock ship water	True
+harbor46.tif	dock ship water	True
+harbor47.tif	dock ship water	True
+harbor48.tif	dock ship water	True
+harbor49.tif	dock ship water	True
+harbor50.tif	dock ship water	True
+harbor51.tif	dock ship water	True
+harbor52.tif	dock ship water	True
+harbor53.tif	dock ship water	True
+harbor54.tif	dock ship water	True
+harbor55.tif	dock ship water	True
+harbor56.tif	dock ship water	True
+harbor57.tif	dock ship water	True
+harbor58.tif	dock ship water	True
+harbor59.tif	dock ship water	True
+harbor60.tif	dock ship water	True
+harbor61.tif	dock ship water	True
+harbor62.tif	dock ship water	True
+harbor63.tif	dock ship water	True
+harbor64.tif	dock ship water	True
+harbor65.tif	dock ship water	True
+harbor66.tif	dock ship water	True
+harbor67.tif	dock ship water	True
+harbor68.tif	dock ship water	True
+harbor69.tif	dock ship water	True
+harbor70.tif	dock grass ship water	True
+harbor71.tif	dock ship water	True
+harbor72.tif	dock ship water	True
+harbor73.tif	dock ship water	True
+harbor74.tif	dock ship water	True
+harbor75.tif	dock ship water	True
+harbor76.tif	dock ship water	True
+harbor77.tif	dock ship water	True
+harbor78.tif	dock ship water	True
+harbor79.tif	dock ship water	True
+harbor80.tif	dock ship water	True
+harbor81.tif	dock ship water	True
+harbor82.tif	dock ship water	True
+harbor83.tif	dock ship water	True
+harbor84.tif	dock ship water	True
+harbor85.tif	dock ship water	True
+harbor86.tif	buildings dock ship water	True
+harbor87.tif	dock ship water	True
+harbor88.tif	dock ship water	True
+harbor89.tif	dock ship water	True
+harbor90.tif	dock ship water	True
+harbor91.tif	dock ship water	True
+harbor92.tif	buildings dock ship water	True
+harbor93.tif	buildings dock ship water	True
+harbor94.tif	dock ship water	True
+harbor95.tif	dock ship water	True
+harbor96.tif	dock ship water	True
+harbor97.tif	dock ship water	True
+harbor98.tif	dock ship water	True
+harbor99.tif	dock ship water	True
+intersection00.tif	buildings cars grass pavement trees	True
+intersection01.tif	buildings cars pavement trees	True
+intersection02.tif	buildings cars pavement	True
+intersection03.tif	buildings cars grass pavement trees	True
+intersection04.tif	cars grass pavement trees	True
+intersection05.tif	buildings cars grass pavement trees	True
+intersection06.tif	buildings cars grass pavement trees	True
+intersection07.tif	bare-soil cars court pavement trees	True
+intersection08.tif	buildings cars pavement trees	True
+intersection09.tif	buildings cars grass pavement trees	True
+intersection10.tif	buildings cars grass pavement trees	True
+intersection11.tif	bare-soil buildings cars pavement trees	True
+intersection12.tif	buildings cars grass pavement trees	True
+intersection13.tif	buildings cars pavement trees	True
+intersection14.tif	buildings cars grass pavement trees	True
+intersection15.tif	bare-soil buildings cars pavement trees	True
+intersection16.tif	cars grass pavement trees	True
+intersection17.tif	bare-soil cars grass pavement	True
+intersection18.tif	cars grass pavement	True
+intersection19.tif	buildings cars grass pavement	True
+intersection20.tif	bare-soil cars grass pavement	True
+intersection21.tif	cars grass pavement trees	True
+intersection22.tif	buildings grass pavement trees	True
+intersection23.tif	buildings cars grass pavement trees	True
+intersection24.tif	cars grass pavement trees	True
+intersection25.tif	buildings cars grass pavement trees	True
+intersection26.tif	bare-soil buildings cars grass pavement trees	True
+intersection27.tif	bare-soil buildings cars grass pavement trees	True
+intersection28.tif	buildings cars grass pavement trees	True
+intersection29.tif	cars grass pavement	True
+intersection30.tif	cars grass pavement trees	True
+intersection31.tif	buildings cars grass pavement trees	True
+intersection32.tif	bare-soil cars grass pavement trees	True
+intersection33.tif	bare-soil cars grass pavement trees	True
+intersection34.tif	bare-soil buildings cars grass pavement trees	True
+intersection35.tif	buildings cars field grass pavement trees	True
+intersection36.tif	bare-soil cars grass pavement trees	True
+intersection37.tif	bare-soil buildings cars grass pavement trees	True
+intersection38.tif	bare-soil buildings cars pavement trees	True
+intersection39.tif	bare-soil buildings cars grass pavement trees	True
+intersection40.tif	bare-soil buildings cars pavement trees	True
+intersection41.tif	bare-soil buildings cars pavement trees	True
+intersection42.tif	bare-soil buildings cars pavement trees	True
+intersection43.tif	bare-soil buildings cars grass pavement trees	True
+intersection44.tif	bare-soil cars grass pavement trees	True
+intersection45.tif	bare-soil cars grass pavement trees	True
+intersection46.tif	buildings cars grass pavement trees	True
+intersection47.tif	bare-soil buildings cars pavement trees	True
+intersection48.tif	bare-soil cars pavement	True
+intersection49.tif	buildings cars grass pavement trees	True
+intersection50.tif	bare-soil cars mobile-home pavement trees	True
+intersection51.tif	bare-soil cars grass mobile-home pavement trees	True
+intersection52.tif	bare-soil cars grass pavement trees	True
+intersection53.tif	bare-soil buildings cars pavement	True
+intersection54.tif	bare-soil buildings cars pavement trees	True
+intersection55.tif	bare-soil cars pavement trees	True
+intersection56.tif	bare-soil cars grass pavement trees	True
+intersection57.tif	bare-soil buildings cars grass pavement trees	True
+intersection58.tif	bare-soil cars grass pavement trees	True
+intersection59.tif	bare-soil buildings cars pavement trees	True
+intersection60.tif	buildings grass pavement	True
+intersection61.tif	buildings cars grass pavement	True
+intersection62.tif	cars grass pavement trees	True
+intersection63.tif	cars grass pavement	True
+intersection64.tif	buildings cars grass pavement trees	True
+intersection65.tif	buildings cars grass pavement trees	True
+intersection66.tif	buildings cars grass pavement trees	True
+intersection67.tif	buildings cars grass pavement trees	True
+intersection68.tif	buildings cars grass pavement trees	True
+intersection69.tif	bare-soil buildings cars grass pavement trees	True
+intersection70.tif	buildings cars pavement	True
+intersection71.tif	buildings cars pavement	True
+intersection72.tif	buildings cars pavement	True
+intersection73.tif	buildings cars pavement	True
+intersection74.tif	bare-soil buildings cars pavement trees	True
+intersection75.tif	bare-soil buildings cars pavement	True
+intersection76.tif	buildings grass pavement	True
+intersection77.tif	buildings cars grass pavement trees	True
+intersection78.tif	bare-soil cars grass pavement	True
+intersection79.tif	buildings cars grass pavement trees	True
+intersection80.tif	bare-soil buildings cars grass pavement trees	True
+intersection81.tif	buildings cars grass pavement trees	True
+intersection82.tif	buildings cars grass pavement trees	True
+intersection83.tif	bare-soil buildings cars grass pavement trees	True
+intersection84.tif	bare-soil grass pavement trees	True
+intersection85.tif	cars grass pavement trees	True
+intersection86.tif	bare-soil buildings cars pavement trees	True
+intersection87.tif	bare-soil cars grass pavement trees	True
+intersection88.tif	bare-soil buildings cars pavement trees	True
+intersection89.tif	bare-soil cars pavement trees	True
+intersection90.tif	bare-soil cars pavement	True
+intersection91.tif	bare-soil cars pavement trees	True
+intersection92.tif	bare-soil cars pavement trees	True
+intersection93.tif	bare-soil buildings cars grass pavement trees	True
+intersection94.tif	buildings cars grass pavement trees	True
+intersection95.tif	bare-soil buildings cars grass pavement trees	True
+intersection96.tif	bare-soil buildings cars pavement trees	True
+intersection97.tif	buildings cars grass pavement trees	True
+intersection98.tif	bare-soil buildings cars pavement trees	True
+intersection99.tif	bare-soil buildings cars pavement trees	True
+mediumresidential00.tif	buildings cars grass trees	True
+mediumresidential01.tif	buildings cars grass trees	True
+mediumresidential02.tif	buildings cars grass trees	True
+mediumresidential03.tif	bare-soil buildings cars grass trees	True
+mediumresidential04.tif	buildings cars grass trees	True
+mediumresidential05.tif	bare-soil buildings cars grass trees	True
+mediumresidential06.tif	buildings cars grass pavement trees	True
+mediumresidential07.tif	buildings cars grass trees	True
+mediumresidential08.tif	buildings cars grass pavement trees	True
+mediumresidential09.tif	buildings cars grass trees	True
+mediumresidential10.tif	buildings grass trees	True
+mediumresidential11.tif	buildings cars grass pavement trees	True
+mediumresidential12.tif	buildings grass trees	True
+mediumresidential13.tif	buildings cars grass trees	True
+mediumresidential14.tif	buildings cars grass trees	True
+mediumresidential15.tif	buildings cars grass trees	True
+mediumresidential16.tif	buildings cars grass trees	True
+mediumresidential17.tif	buildings cars grass pavement trees	True
+mediumresidential18.tif	bare-soil buildings cars grass pavement trees	True
+mediumresidential19.tif	bare-soil buildings cars grass trees	True
+mediumresidential20.tif	bare-soil buildings cars grass pavement trees	True
+mediumresidential21.tif	buildings cars grass pavement trees	True
+mediumresidential22.tif	buildings cars grass pavement trees	True
+mediumresidential23.tif	buildings cars grass pavement trees	True
+mediumresidential24.tif	buildings cars grass pavement trees	True
+mediumresidential25.tif	buildings cars grass pavement trees	True
+mediumresidential26.tif	buildings cars grass pavement trees	True
+mediumresidential27.tif	buildings cars grass pavement trees	True
+mediumresidential28.tif	bare-soil buildings cars grass pavement trees	True
+mediumresidential29.tif	bare-soil buildings cars grass pavement trees	True
+mediumresidential30.tif	bare-soil buildings cars grass pavement trees	True
+mediumresidential31.tif	bare-soil buildings cars grass pavement trees	True
+mediumresidential32.tif	bare-soil buildings cars grass pavement trees	True
+mediumresidential33.tif	bare-soil buildings cars pavement trees	True
+mediumresidential34.tif	bare-soil buildings cars grass pavement trees	True
+mediumresidential35.tif	bare-soil buildings cars trees	True
+mediumresidential36.tif	bare-soil buildings cars trees	True
+mediumresidential37.tif	bare-soil buildings cars grass trees	True
+mediumresidential38.tif	bare-soil buildings cars pavement trees	True
+mediumresidential39.tif	bare-soil buildings cars trees	True
+mediumresidential40.tif	bare-soil buildings cars grass pavement trees	True
+mediumresidential41.tif	bare-soil buildings cars grass pavement trees	True
+mediumresidential42.tif	bare-soil buildings cars pavement trees	True
+mediumresidential43.tif	bare-soil buildings cars trees	True
+mediumresidential44.tif	bare-soil buildings cars grass trees	True
+mediumresidential45.tif	bare-soil buildings cars pavement trees	True
+mediumresidential46.tif	bare-soil buildings cars grass pavement trees	True
+mediumresidential47.tif	bare-soil buildings cars grass trees	True
+mediumresidential48.tif	bare-soil buildings cars grass pavement trees	True
+mediumresidential49.tif	bare-soil buildings cars pavement trees	True
+mediumresidential50.tif	bare-soil buildings cars grass trees	True
+mediumresidential51.tif	bare-soil buildings cars grass pavement trees	True
+mediumresidential52.tif	bare-soil buildings cars grass pavement trees	True
+mediumresidential53.tif	bare-soil buildings cars pavement trees	True
+mediumresidential54.tif	bare-soil buildings cars grass trees	True
+mediumresidential55.tif	bare-soil buildings cars trees	True
+mediumresidential56.tif	bare-soil buildings cars grass pavement	True
+mediumresidential57.tif	buildings cars grass pavement	True
+mediumresidential58.tif	buildings cars grass pavement	True
+mediumresidential59.tif	bare-soil buildings cars grass pavement trees	True
+mediumresidential60.tif	buildings cars grass pavement trees	True
+mediumresidential61.tif	buildings cars grass pavement trees	True
+mediumresidential62.tif	buildings cars grass pavement trees	True
+mediumresidential63.tif	buildings cars grass pavement trees	True
+mediumresidential64.tif	bare-soil buildings cars grass pavement trees	True
+mediumresidential65.tif	bare-soil buildings cars grass pavement trees	True
+mediumresidential66.tif	bare-soil buildings cars grass pavement trees	True
+mediumresidential67.tif	bare-soil buildings cars grass pavement trees	True
+mediumresidential68.tif	buildings cars grass pavement trees	True
+mediumresidential69.tif	buildings cars grass trees	True
+mediumresidential70.tif	buildings cars pavement trees	True
+mediumresidential71.tif	buildings cars grass pavement trees	True
+mediumresidential72.tif	buildings cars grass trees	True
+mediumresidential73.tif	buildings cars grass pavement trees	True
+mediumresidential74.tif	buildings cars grass pavement trees	True
+mediumresidential75.tif	buildings cars grass pavement trees	True
+mediumresidential76.tif	buildings cars grass pavement	True
+mediumresidential77.tif	buildings cars grass pavement	True
+mediumresidential78.tif	buildings cars grass pavement	True
+mediumresidential79.tif	buildings cars grass pavement	True
+mediumresidential80.tif	buildings cars grass pavement	True
+mediumresidential81.tif	buildings cars grass pavement trees	True
+mediumresidential82.tif	buildings cars grass trees	True
+mediumresidential83.tif	buildings cars grass pavement trees	True
+mediumresidential84.tif	buildings cars grass pavement trees	True
+mediumresidential85.tif	buildings cars grass pavement trees	True
+mediumresidential86.tif	buildings grass trees	True
+mediumresidential87.tif	buildings cars grass pavement trees	True
+mediumresidential88.tif	buildings cars grass trees	True
+mediumresidential89.tif	buildings cars grass trees	True
+mediumresidential90.tif	buildings cars grass trees	True
+mediumresidential91.tif	buildings cars grass trees	True
+mediumresidential92.tif	bare-soil buildings grass pavement trees	True
+mediumresidential93.tif	buildings cars grass pavement	True
+mediumresidential94.tif	buildings cars grass pavement trees	True
+mediumresidential95.tif	bare-soil buildings cars grass pavement trees	True
+mediumresidential96.tif	buildings cars grass pavement trees	True
+mediumresidential97.tif	bare-soil buildings cars grass pavement trees	True
+mediumresidential98.tif	buildings cars grass trees	True
+mediumresidential99.tif	buildings grass trees	True
+mobilehomepark00.tif	cars mobile-home pavement trees	True
+mobilehomepark01.tif	cars grass mobile-home pavement trees	True
+mobilehomepark02.tif	bare-soil cars mobile-home pavement trees	True
+mobilehomepark03.tif	bare-soil cars mobile-home pavement trees	True
+mobilehomepark04.tif	bare-soil cars mobile-home pavement trees	True
+mobilehomepark05.tif	bare-soil cars mobile-home pavement trees	True
+mobilehomepark06.tif	bare-soil cars mobile-home pavement trees	True
+mobilehomepark07.tif	bare-soil cars mobile-home pavement trees	True
+mobilehomepark08.tif	bare-soil cars grass mobile-home pavement trees	True
+mobilehomepark09.tif	cars grass mobile-home pavement trees	True
+mobilehomepark10.tif	bare-soil cars mobile-home pavement trees	True
+mobilehomepark11.tif	bare-soil mobile-home pavement trees	True
+mobilehomepark12.tif	bare-soil cars mobile-home pavement trees	True
+mobilehomepark13.tif	bare-soil cars mobile-home pavement trees	True
+mobilehomepark14.tif	bare-soil cars mobile-home pavement trees	True
+mobilehomepark15.tif	bare-soil cars mobile-home pavement trees	True
+mobilehomepark16.tif	bare-soil cars mobile-home pavement trees	True
+mobilehomepark17.tif	cars mobile-home pavement trees	True
+mobilehomepark18.tif	cars grass mobile-home pavement trees	True
+mobilehomepark19.tif	cars mobile-home pavement trees	True
+mobilehomepark20.tif	mobile-home pavement trees	True
+mobilehomepark21.tif	cars mobile-home pavement trees	True
+mobilehomepark22.tif	bare-soil cars mobile-home pavement trees	True
+mobilehomepark23.tif	bare-soil cars grass mobile-home pavement trees	True
+mobilehomepark24.tif	cars grass mobile-home pavement trees	True
+mobilehomepark25.tif	cars grass mobile-home pavement trees	True
+mobilehomepark26.tif	cars mobile-home pavement	True
+mobilehomepark27.tif	bare-soil cars mobile-home pavement	True
+mobilehomepark28.tif	bare-soil cars grass mobile-home pavement trees	True
+mobilehomepark29.tif	bare-soil cars grass mobile-home pavement trees	True
+mobilehomepark30.tif	cars grass mobile-home pavement trees	True
+mobilehomepark31.tif	cars grass mobile-home pavement trees	True
+mobilehomepark32.tif	cars grass mobile-home pavement trees	True
+mobilehomepark33.tif	cars grass mobile-home pavement trees	True
+mobilehomepark34.tif	cars grass mobile-home pavement trees	True
+mobilehomepark35.tif	cars grass mobile-home pavement trees	True
+mobilehomepark36.tif	cars grass mobile-home pavement trees	True
+mobilehomepark37.tif	cars grass mobile-home pavement trees	True
+mobilehomepark38.tif	cars grass mobile-home pavement trees	True
+mobilehomepark39.tif	cars grass mobile-home pavement trees	True
+mobilehomepark40.tif	cars mobile-home pavement trees	True
+mobilehomepark41.tif	cars mobile-home pavement trees	True
+mobilehomepark42.tif	cars mobile-home pavement trees	True
+mobilehomepark43.tif	cars mobile-home pavement trees	True
+mobilehomepark44.tif	cars mobile-home pavement trees	True
+mobilehomepark45.tif	cars mobile-home pavement	True
+mobilehomepark46.tif	cars grass mobile-home pavement trees	True
+mobilehomepark47.tif	cars grass mobile-home pavement trees	True
+mobilehomepark48.tif	cars mobile-home pavement trees	True
+mobilehomepark49.tif	cars mobile-home pavement	True
+mobilehomepark50.tif	cars grass mobile-home pavement trees	True
+mobilehomepark51.tif	cars mobile-home pavement trees	True
+mobilehomepark52.tif	cars grass mobile-home pavement trees	True
+mobilehomepark53.tif	cars grass mobile-home pavement trees	True
+mobilehomepark54.tif	cars grass mobile-home pavement trees	True
+mobilehomepark55.tif	cars grass mobile-home pavement trees	True
+mobilehomepark56.tif	cars grass mobile-home pavement trees	True
+mobilehomepark57.tif	cars grass mobile-home pavement	True
+mobilehomepark58.tif	cars grass mobile-home pavement trees	True
+mobilehomepark59.tif	cars grass mobile-home pavement trees	True
+mobilehomepark60.tif	cars grass mobile-home pavement trees	True
+mobilehomepark61.tif	cars grass mobile-home pavement	True
+mobilehomepark62.tif	cars grass mobile-home pavement trees	True
+mobilehomepark63.tif	cars grass mobile-home pavement trees	True
+mobilehomepark64.tif	cars grass mobile-home pavement trees	True
+mobilehomepark65.tif	cars grass mobile-home pavement trees	True
+mobilehomepark66.tif	cars grass mobile-home pavement trees	True
+mobilehomepark67.tif	cars grass mobile-home pavement trees	True
+mobilehomepark68.tif	cars grass mobile-home pavement trees	True
+mobilehomepark69.tif	cars grass mobile-home pavement trees	True
+mobilehomepark70.tif	cars grass mobile-home pavement trees	True
+mobilehomepark71.tif	bare-soil cars mobile-home pavement trees	True
+mobilehomepark72.tif	bare-soil cars grass mobile-home pavement trees	True
+mobilehomepark73.tif	bare-soil cars grass mobile-home pavement trees	True
+mobilehomepark74.tif	bare-soil cars mobile-home pavement trees	True
+mobilehomepark75.tif	bare-soil cars mobile-home pavement trees	True
+mobilehomepark76.tif	bare-soil cars mobile-home pavement	True
+mobilehomepark77.tif	bare-soil cars mobile-home pavement trees	True
+mobilehomepark78.tif	cars grass mobile-home pavement trees	True
+mobilehomepark79.tif	cars grass mobile-home pavement trees	True
+mobilehomepark80.tif	cars grass mobile-home pavement	True
+mobilehomepark81.tif	cars grass mobile-home pavement	True
+mobilehomepark82.tif	cars grass mobile-home pavement trees	True
+mobilehomepark83.tif	bare-soil mobile-home pavement trees	True
+mobilehomepark84.tif	mobile-home pavement trees	True
+mobilehomepark85.tif	bare-soil mobile-home pavement trees	True
+mobilehomepark86.tif	bare-soil mobile-home pavement trees	True
+mobilehomepark87.tif	mobile-home pavement trees	True
+mobilehomepark88.tif	grass mobile-home pavement trees	True
+mobilehomepark89.tif	bare-soil cars mobile-home pavement trees	True
+mobilehomepark90.tif	bare-soil mobile-home pavement trees	True
+mobilehomepark91.tif	bare-soil cars mobile-home pavement trees	True
+mobilehomepark92.tif	bare-soil cars grass mobile-home pavement trees	True
+mobilehomepark93.tif	bare-soil mobile-home pavement trees	True
+mobilehomepark94.tif	bare-soil cars mobile-home pavement trees	True
+mobilehomepark95.tif	cars mobile-home pavement trees	True
+mobilehomepark96.tif	cars grass mobile-home pavement trees	True
+mobilehomepark97.tif	cars grass mobile-home pavement trees	True
+mobilehomepark98.tif	cars grass mobile-home pavement trees	True
+mobilehomepark99.tif	cars mobile-home pavement trees	True
+overpass00.tif	cars grass pavement trees	True
+overpass01.tif	cars grass pavement trees	True
+overpass02.tif	bare-soil cars pavement	True
+overpass03.tif	bare-soil cars pavement	True
+overpass04.tif	bare-soil cars pavement	True
+overpass05.tif	bare-soil cars pavement	True
+overpass06.tif	bare-soil cars pavement trees	True
+overpass07.tif	bare-soil cars pavement	True
+overpass08.tif	bare-soil cars pavement	True
+overpass09.tif	bare-soil cars pavement	True
+overpass10.tif	cars grass pavement	True
+overpass11.tif	bare-soil cars pavement trees	True
+overpass12.tif	cars grass pavement	True
+overpass13.tif	bare-soil cars grass pavement trees	True
+overpass14.tif	bare-soil grass pavement trees	True
+overpass15.tif	cars grass pavement	True
+overpass16.tif	cars grass pavement trees	True
+overpass17.tif	cars grass pavement	True
+overpass18.tif	cars grass pavement	True
+overpass19.tif	cars grass pavement	True
+overpass20.tif	cars grass pavement	True
+overpass21.tif	cars grass pavement	True
+overpass22.tif	cars grass pavement	True
+overpass23.tif	bare-soil cars grass pavement	True
+overpass24.tif	bare-soil cars grass pavement	True
+overpass25.tif	bare-soil cars grass pavement	True
+overpass26.tif	bare-soil cars pavement	True
+overpass27.tif	cars grass pavement	True
+overpass28.tif	grass pavement	True
+overpass29.tif	bare-soil cars pavement trees	True
+overpass30.tif	bare-soil cars pavement trees	True
+overpass31.tif	bare-soil cars grass pavement trees	True
+overpass32.tif	bare-soil cars grass pavement trees	True
+overpass33.tif	cars grass pavement trees	True
+overpass34.tif	cars grass pavement trees	True
+overpass35.tif	bare-soil cars grass pavement trees	True
+overpass36.tif	cars grass pavement trees	True
+overpass37.tif	cars grass pavement trees	True
+overpass38.tif	cars grass pavement	True
+overpass39.tif	cars grass pavement trees	True
+overpass40.tif	cars grass pavement trees	True
+overpass41.tif	cars grass pavement	True
+overpass42.tif	cars grass pavement	True
+overpass43.tif	cars grass pavement	True
+overpass44.tif	cars grass pavement	True
+overpass45.tif	cars grass pavement	True
+overpass46.tif	cars grass pavement	True
+overpass47.tif	cars grass pavement	True
+overpass48.tif	cars grass pavement	True
+overpass49.tif	cars pavement	True
+overpass50.tif	cars grass pavement	True
+overpass51.tif	cars grass pavement	True
+overpass52.tif	cars grass pavement	True
+overpass53.tif	cars grass pavement	True
+overpass54.tif	bare-soil cars grass pavement	True
+overpass55.tif	cars grass pavement trees	True
+overpass56.tif	bare-soil cars grass pavement	True
+overpass57.tif	bare-soil cars grass pavement	True
+overpass58.tif	bare-soil cars grass pavement	True
+overpass59.tif	bare-soil cars grass pavement trees	True
+overpass60.tif	cars grass pavement	True
+overpass61.tif	cars grass pavement	True
+overpass62.tif	cars grass pavement	True
+overpass63.tif	cars grass pavement	True
+overpass64.tif	cars grass pavement	True
+overpass65.tif	cars grass pavement	True
+overpass66.tif	bare-soil cars grass pavement	True
+overpass67.tif	bare-soil cars grass pavement	True
+overpass68.tif	bare-soil grass pavement	True
+overpass69.tif	bare-soil grass pavement	True
+overpass70.tif	bare-soil cars grass pavement	True
+overpass71.tif	bare-soil cars grass pavement	True
+overpass72.tif	cars grass pavement	True
+overpass73.tif	bare-soil cars grass pavement	True
+overpass74.tif	bare-soil cars grass pavement	True
+overpass75.tif	cars grass pavement	True
+overpass76.tif	bare-soil cars grass pavement	True
+overpass77.tif	cars grass pavement	True
+overpass78.tif	bare-soil grass pavement	True
+overpass79.tif	bare-soil cars grass pavement	True
+overpass80.tif	cars grass pavement	True
+overpass81.tif	bare-soil grass pavement	True
+overpass82.tif	bare-soil grass pavement	True
+overpass83.tif	cars grass pavement	True
+overpass84.tif	bare-soil grass pavement trees	True
+overpass85.tif	bare-soil grass pavement	True
+overpass86.tif	bare-soil cars grass pavement trees	True
+overpass87.tif	cars grass pavement	True
+overpass88.tif	cars grass pavement	True
+overpass89.tif	cars grass pavement	True
+overpass90.tif	cars grass pavement	True
+overpass91.tif	cars grass pavement	True
+overpass92.tif	cars grass pavement	True
+overpass93.tif	cars grass pavement	True
+overpass94.tif	cars grass pavement	True
+overpass95.tif	bare-soil cars pavement	True
+overpass96.tif	cars grass pavement	True
+overpass97.tif	cars grass pavement	True
+overpass98.tif	cars pavement	True
+overpass99.tif	cars pavement	True
+parkinglot00.tif	cars pavement	True
+parkinglot01.tif	cars pavement trees	True
+parkinglot02.tif	cars pavement trees	True
+parkinglot03.tif	cars pavement	True
+parkinglot04.tif	cars pavement	True
+parkinglot05.tif	cars pavement trees	True
+parkinglot06.tif	cars pavement trees	True
+parkinglot07.tif	cars pavement trees	True
+parkinglot08.tif	cars pavement trees	True
+parkinglot09.tif	cars pavement trees	True
+parkinglot10.tif	cars pavement	True
+parkinglot11.tif	cars pavement	True
+parkinglot12.tif	cars pavement	True
+parkinglot13.tif	cars pavement	True
+parkinglot14.tif	bare-soil cars pavement trees	True
+parkinglot15.tif	cars pavement	True
+parkinglot16.tif	cars pavement	True
+parkinglot17.tif	cars pavement	True
+parkinglot18.tif	cars pavement	True
+parkinglot19.tif	cars pavement	True
+parkinglot20.tif	cars grass pavement trees	True
+parkinglot21.tif	cars pavement trees	True
+parkinglot22.tif	cars pavement	True
+parkinglot23.tif	cars pavement	True
+parkinglot24.tif	cars pavement	True
+parkinglot25.tif	cars pavement trees	True
+parkinglot26.tif	cars grass pavement	True
+parkinglot27.tif	cars pavement	True
+parkinglot28.tif	cars grass pavement	True
+parkinglot29.tif	cars grass pavement	True
+parkinglot30.tif	bare-soil cars grass pavement trees	True
+parkinglot31.tif	cars grass pavement trees	True
+parkinglot32.tif	cars grass pavement trees	True
+parkinglot33.tif	cars pavement	True
+parkinglot34.tif	cars grass pavement trees	True
+parkinglot35.tif	buildings cars grass pavement trees	True
+parkinglot36.tif	cars pavement	True
+parkinglot37.tif	cars pavement	True
+parkinglot38.tif	cars pavement	True
+parkinglot39.tif	cars grass pavement trees	True
+parkinglot40.tif	cars pavement	True
+parkinglot41.tif	cars pavement trees	True
+parkinglot42.tif	cars pavement trees	True
+parkinglot43.tif	cars pavement	True
+parkinglot44.tif	cars pavement trees	True
+parkinglot45.tif	cars grass pavement trees	True
+parkinglot46.tif	cars grass pavement trees	True
+parkinglot47.tif	buildings cars grass pavement trees	True
+parkinglot48.tif	cars pavement trees	True
+parkinglot49.tif	buildings cars pavement trees	True
+parkinglot50.tif	cars pavement trees	True
+parkinglot51.tif	cars pavement	True
+parkinglot52.tif	buildings cars grass pavement trees	True
+parkinglot53.tif	bare-soil cars pavement	True
+parkinglot54.tif	cars grass pavement trees	True
+parkinglot55.tif	buildings cars pavement trees	False
+parkinglot56.tif	cars grass pavement trees	False
+parkinglot57.tif	bare-soil cars pavement trees	False
+parkinglot58.tif	cars pavement trees	False
+parkinglot59.tif	cars grass pavement	False
+parkinglot60.tif	buildings cars pavement trees	False
+parkinglot61.tif	buildings cars grass pavement trees	False
+parkinglot62.tif	cars pavement trees	False
+parkinglot63.tif	cars grass pavement trees	False
+parkinglot64.tif	cars pavement trees	False
+parkinglot65.tif	cars pavement trees	False
+parkinglot66.tif	cars pavement	False
+parkinglot67.tif	cars pavement trees	False
+parkinglot68.tif	cars pavement	False
+parkinglot69.tif	bare-soil cars pavement	False
+parkinglot70.tif	buildings cars pavement	False
+parkinglot71.tif	cars pavement	False
+parkinglot72.tif	cars pavement	False
+parkinglot73.tif	cars pavement	False
+parkinglot74.tif	bare-soil cars pavement	False
+parkinglot75.tif	cars pavement	False
+parkinglot76.tif	cars pavement	False
+parkinglot77.tif	cars pavement	False
+parkinglot78.tif	cars pavement	False
+parkinglot79.tif	cars pavement	False
+parkinglot80.tif	cars pavement	False
+parkinglot81.tif	cars pavement	False
+parkinglot82.tif	cars pavement trees	False
+parkinglot83.tif	buildings cars pavement	False
+parkinglot84.tif	cars pavement	False
+parkinglot85.tif	cars pavement	False
+parkinglot86.tif	cars pavement	False
+parkinglot87.tif	cars pavement	False
+parkinglot88.tif	cars pavement	False
+parkinglot89.tif	cars pavement	False
+parkinglot90.tif	cars pavement	False
+parkinglot91.tif	cars pavement trees	False
+parkinglot92.tif	cars pavement	False
+parkinglot93.tif	cars pavement	False
+parkinglot94.tif	cars pavement	False
+parkinglot95.tif	cars pavement	False
+parkinglot96.tif	cars pavement	False
+parkinglot97.tif	cars pavement trees	False
+parkinglot98.tif	buildings cars pavement	False
+parkinglot99.tif	cars pavement	False
+river00.tif	bare-soil grass sand trees water	False
+river01.tif	bare-soil buildings grass sand trees water	False
+river02.tif	grass trees water	False
+river03.tif	bare-soil buildings grass sand trees water	False
+river04.tif	buildings cars grass sand trees water	False
+river05.tif	grass pavement water	False
+river06.tif	grass water	False
+river07.tif	grass water	False
+river08.tif	water	False
+river09.tif	water	False
+river10.tif	trees water	False
+river11.tif	trees water	False
+river12.tif	grass trees water	False
+river13.tif	trees water	False
+river14.tif	trees water	False
+river15.tif	grass sand trees water	False
+river16.tif	grass sand trees water	False
+river17.tif	grass sand trees water	False
+river18.tif	grass sand trees water	False
+river19.tif	grass trees water	False
+river20.tif	bare-soil grass trees water	False
+river21.tif	grass sand trees water	False
+river22.tif	grass trees water	False
+river23.tif	grass trees water	False
+river24.tif	cars grass pavement trees water	False
+river25.tif	cars grass pavement trees water	False
+river26.tif	bare-soil grass trees water	False
+river27.tif	bare-soil grass trees water	False
+river28.tif	bare-soil grass trees water	False
+river29.tif	bare-soil sand water	False
+river30.tif	bare-soil sand water	False
+river31.tif	bare-soil sand water	False
+river32.tif	bare-soil sand water	False
+river33.tif	bare-soil sand water	False
+river34.tif	grass sand trees water	False
+river35.tif	sand trees water	False
+river36.tif	sand trees water	False
+river37.tif	sand trees water	False
+river38.tif	grass sand trees water	False
+river39.tif	grass sand trees water	False
+river40.tif	grass sand trees water	False
+river41.tif	grass sand trees water	False
+river42.tif	grass sand trees water	False
+river43.tif	grass sand trees water	False
+river44.tif	grass sand trees water	False
+river45.tif	grass sand trees water	False
+river46.tif	grass sand trees water	False
+river47.tif	grass sand trees water	False
+river48.tif	grass sand trees water	False
+river49.tif	grass sand trees water	False
+river50.tif	grass sand trees water	False
+river51.tif	grass sand trees water	False
+river52.tif	grass sand trees water	False
+river53.tif	field trees water	False
+river54.tif	bare-soil grass pavement sand trees water	False
+river55.tif	pavement sand trees water	False
+river56.tif	pavement sand trees water	False
+river57.tif	pavement sand trees water	False
+river58.tif	bare-soil buildings trees water	False
+river59.tif	bare-soil pavement trees water	False
+river60.tif	bare-soil pavement trees water	False
+river61.tif	bare-soil buildings cars grass pavement trees water	False
+river62.tif	bare-soil cars trees water	False
+river63.tif	bare-soil pavement water	False
+river64.tif	bare-soil water	False
+river65.tif	bare-soil pavement trees water	False
+river66.tif	bare-soil pavement water	False
+river67.tif	bare-soil pavement water	False
+river68.tif	bare-soil trees water	False
+river69.tif	bare-soil trees water	False
+river70.tif	bare-soil trees water	False
+river71.tif	bare-soil trees water	False
+river72.tif	bare-soil trees water	False
+river73.tif	bare-soil trees water	False
+river74.tif	bare-soil water	False
+river75.tif	bare-soil grass water	False
+river76.tif	bare-soil grass water	False
+river77.tif	bare-soil sand trees water	False
+river78.tif	bare-soil sand trees water	False
+river79.tif	bare-soil sand trees water	False
+river80.tif	bare-soil sand trees water	False
+river81.tif	bare-soil sand trees water	False
+river82.tif	sand trees water	False
+river83.tif	bare-soil grass water	False
+river84.tif	grass trees water	False
+river85.tif	grass trees water	False
+river86.tif	grass trees water	False
+river87.tif	grass trees water	False
+river88.tif	bare-soil grass water	False
+river89.tif	bare-soil grass water	False
+river90.tif	bare-soil grass trees water	False
+river91.tif	bare-soil grass trees water	False
+river92.tif	grass trees water	False
+river93.tif	bare-soil grass water	False
+river94.tif	grass water	False
+river95.tif	bare-soil grass water	False
+river96.tif	grass ship trees water	False
+river97.tif	bare-soil grass ship trees water	False
+river98.tif	bare-soil grass trees water	False
+river99.tif	bare-soil grass trees water	False
+runway00.tif	grass pavement	False
+runway01.tif	grass pavement	False
+runway02.tif	pavement	False
+runway03.tif	grass pavement	False
+runway04.tif	grass pavement	False
+runway05.tif	pavement	False
+runway06.tif	grass pavement	False
+runway07.tif	pavement	False
+runway08.tif	grass pavement	False
+runway09.tif	grass pavement	False
+runway10.tif	grass pavement	False
+runway11.tif	grass pavement	False
+runway12.tif	grass pavement	False
+runway13.tif	grass pavement	False
+runway14.tif	grass pavement	False
+runway15.tif	grass pavement	False
+runway16.tif	grass pavement	False
+runway17.tif	grass pavement	False
+runway18.tif	grass pavement	False
+runway19.tif	grass pavement	False
+runway20.tif	grass pavement	False
+runway21.tif	grass pavement	False
+runway22.tif	grass pavement	False
+runway23.tif	grass pavement	False
+runway24.tif	grass pavement	False
+runway25.tif	grass pavement	False
+runway26.tif	grass pavement	False
+runway27.tif	grass pavement	False
+runway28.tif	grass pavement	False
+runway29.tif	grass pavement	False
+runway30.tif	grass pavement	False
+runway31.tif	grass pavement	False
+runway32.tif	grass pavement	False
+runway33.tif	grass pavement	False
+runway34.tif	grass pavement	False
+runway35.tif	grass pavement	False
+runway36.tif	grass pavement	False
+runway37.tif	grass pavement	False
+runway38.tif	grass pavement	False
+runway39.tif	grass pavement	False
+runway40.tif	grass pavement	False
+runway41.tif	grass pavement	False
+runway42.tif	grass pavement	False
+runway43.tif	grass pavement	False
+runway44.tif	grass pavement	False
+runway45.tif	grass pavement	False
+runway46.tif	grass pavement	False
+runway47.tif	grass pavement	False
+runway48.tif	grass pavement	False
+runway49.tif	grass pavement	False
+runway50.tif	grass pavement	False
+runway51.tif	pavement sand	False
+runway52.tif	pavement sand	False
+runway53.tif	pavement sand	False
+runway54.tif	pavement sand	False
+runway55.tif	pavement sand	False
+runway56.tif	pavement sand	False
+runway57.tif	pavement sand	False
+runway58.tif	pavement sand	False
+runway59.tif	pavement sand	False
+runway60.tif	pavement	False
+runway61.tif	pavement sand	False
+runway62.tif	pavement	False
+runway63.tif	pavement	False
+runway64.tif	pavement	False
+runway65.tif	pavement sand	False
+runway66.tif	pavement sand	False
+runway67.tif	pavement sand	False
+runway68.tif	pavement sand	False
+runway69.tif	pavement sand	False
+runway70.tif	pavement sand	False
+runway71.tif	pavement	False
+runway72.tif	pavement sand	False
+runway73.tif	pavement sand	False
+runway74.tif	pavement sand	False
+runway75.tif	pavement sand	False
+runway76.tif	pavement sand	False
+runway77.tif	pavement sand	False
+runway78.tif	pavement	False
+runway79.tif	pavement sand	False
+runway80.tif	pavement sand	False
+runway81.tif	pavement sand	False
+runway82.tif	pavement sand	False
+runway83.tif	pavement sand	False
+runway84.tif	pavement sand	False
+runway85.tif	pavement sand	False
+runway86.tif	pavement sand	False
+runway87.tif	pavement sand	False
+runway88.tif	pavement sand	False
+runway89.tif	pavement sand	False
+runway90.tif	pavement	False
+runway91.tif	pavement sand	False
+runway92.tif	grass pavement	False
+runway93.tif	grass pavement	False
+runway94.tif	grass pavement	False
+runway95.tif	grass pavement	False
+runway96.tif	grass pavement	False
+runway97.tif	pavement	False
+runway98.tif	pavement	False
+runway99.tif	bare-soil pavement	False
+sparseresidential00.tif	buildings cars grass pavement trees	False
+sparseresidential01.tif	bare-soil buildings grass pavement trees	False
+sparseresidential02.tif	bare-soil buildings grass pavement trees	False
+sparseresidential03.tif	bare-soil buildings grass trees	False
+sparseresidential04.tif	bare-soil buildings cars grass trees	False
+sparseresidential05.tif	bare-soil buildings grass pavement trees	False
+sparseresidential06.tif	bare-soil buildings grass pavement trees	False
+sparseresidential07.tif	bare-soil buildings cars grass pavement trees	False
+sparseresidential08.tif	bare-soil buildings cars pavement trees	False
+sparseresidential09.tif	bare-soil buildings cars grass pavement trees	False
+sparseresidential10.tif	bare-soil buildings grass pavement trees	False
+sparseresidential11.tif	buildings court grass pavement trees	False
+sparseresidential12.tif	bare-soil buildings cars chaparral sand trees	False
+sparseresidential13.tif	buildings cars chaparral pavement sand trees	False
+sparseresidential14.tif	buildings cars chaparral sand trees	False
+sparseresidential15.tif	buildings cars chaparral pavement sand	False
+sparseresidential16.tif	buildings grass pavement trees	False
+sparseresidential17.tif	bare-soil buildings grass pavement trees	False
+sparseresidential18.tif	buildings cars grass pavement trees	False
+sparseresidential19.tif	bare-soil buildings grass pavement trees	False
+sparseresidential20.tif	bare-soil buildings cars grass pavement	False
+sparseresidential21.tif	bare-soil buildings cars grass pavement	False
+sparseresidential22.tif	bare-soil buildings grass pavement	False
+sparseresidential23.tif	bare-soil buildings cars grass pavement	False
+sparseresidential24.tif	bare-soil buildings cars grass pavement	False
+sparseresidential25.tif	bare-soil buildings cars grass pavement trees	False
+sparseresidential26.tif	buildings cars grass pavement trees	False
+sparseresidential27.tif	buildings cars grass pavement trees	False
+sparseresidential28.tif	buildings cars grass pavement trees	False
+sparseresidential29.tif	bare-soil buildings grass pavement trees	False
+sparseresidential30.tif	bare-soil buildings cars grass pavement	False
+sparseresidential31.tif	bare-soil buildings cars pavement	False
+sparseresidential32.tif	bare-soil buildings grass pavement trees	False
+sparseresidential33.tif	bare-soil buildings grass pavement trees	False
+sparseresidential34.tif	bare-soil buildings cars grass pavement	False
+sparseresidential35.tif	bare-soil buildings grass pavement trees	False
+sparseresidential36.tif	bare-soil buildings grass pavement	False
+sparseresidential37.tif	bare-soil buildings cars grass pavement trees	False
+sparseresidential38.tif	bare-soil buildings cars grass pavement trees	False
+sparseresidential39.tif	bare-soil buildings cars grass pavement trees	False
+sparseresidential40.tif	bare-soil buildings grass pavement	False
+sparseresidential41.tif	bare-soil buildings grass trees	False
+sparseresidential42.tif	bare-soil buildings cars grass pavement trees	False
+sparseresidential43.tif	bare-soil buildings cars grass pavement trees	False
+sparseresidential44.tif	bare-soil buildings cars grass pavement trees	False
+sparseresidential45.tif	buildings grass pavement	False
+sparseresidential46.tif	bare-soil buildings grass pavement trees	False
+sparseresidential47.tif	buildings cars grass pavement trees	False
+sparseresidential48.tif	bare-soil buildings grass pavement	False
+sparseresidential49.tif	bare-soil buildings grass pavement trees	False
+sparseresidential50.tif	bare-soil buildings grass pavement trees	False
+sparseresidential51.tif	bare-soil buildings grass pavement trees	False
+sparseresidential52.tif	bare-soil buildings grass pavement	False
+sparseresidential53.tif	bare-soil buildings grass pavement	False
+sparseresidential54.tif	bare-soil buildings grass pavement	False
+sparseresidential55.tif	bare-soil buildings grass pavement	False
+sparseresidential56.tif	bare-soil buildings cars grass pavement	False
+sparseresidential57.tif	bare-soil buildings grass pavement	False
+sparseresidential58.tif	buildings grass pavement	False
+sparseresidential59.tif	bare-soil buildings grass pavement trees	False
+sparseresidential60.tif	buildings court grass pavement	False
+sparseresidential61.tif	buildings grass trees	False
+sparseresidential62.tif	buildings grass pavement trees	False
+sparseresidential63.tif	buildings grass pavement trees	False
+sparseresidential64.tif	buildings grass pavement trees	False
+sparseresidential65.tif	buildings grass pavement trees	False
+sparseresidential66.tif	buildings grass pavement trees	False
+sparseresidential67.tif	buildings grass pavement trees	False
+sparseresidential68.tif	buildings grass pavement trees	False
+sparseresidential69.tif	bare-soil buildings cars grass trees	False
+sparseresidential70.tif	bare-soil buildings grass pavement trees	False
+sparseresidential71.tif	buildings grass pavement trees	False
+sparseresidential72.tif	bare-soil buildings court grass pavement trees	False
+sparseresidential73.tif	bare-soil buildings grass pavement trees	False
+sparseresidential74.tif	buildings cars grass pavement trees	False
+sparseresidential75.tif	buildings cars grass pavement trees	False
+sparseresidential76.tif	buildings cars grass pavement trees	False
+sparseresidential77.tif	buildings grass pavement trees	False
+sparseresidential78.tif	buildings grass pavement trees	False
+sparseresidential79.tif	buildings field grass trees	False
+sparseresidential80.tif	buildings grass pavement trees	False
+sparseresidential81.tif	buildings field grass pavement trees	False
+sparseresidential82.tif	bare-soil buildings cars field pavement trees	False
+sparseresidential83.tif	bare-soil buildings field grass pavement trees	False
+sparseresidential84.tif	buildings field grass pavement trees	False
+sparseresidential85.tif	buildings cars chaparral pavement sand trees	False
+sparseresidential86.tif	buildings chaparral pavement sand trees	False
+sparseresidential87.tif	buildings cars chaparral pavement sand trees	False
+sparseresidential88.tif	buildings cars chaparral pavement sand trees	False
+sparseresidential89.tif	buildings chaparral pavement sand trees	False
+sparseresidential90.tif	buildings cars chaparral pavement sand trees	False
+sparseresidential91.tif	buildings chaparral pavement sand trees	False
+sparseresidential92.tif	buildings cars chaparral sand trees	False
+sparseresidential93.tif	buildings cars chaparral pavement sand	False
+sparseresidential94.tif	buildings chaparral sand	False
+sparseresidential95.tif	buildings grass pavement trees	False
+sparseresidential96.tif	buildings grass pavement trees	False
+sparseresidential97.tif	buildings cars grass trees	False
+sparseresidential98.tif	buildings cars grass trees	False
+sparseresidential99.tif	buildings grass trees	False
+storagetanks00.tif	buildings grass pavement tanks trees	False
+storagetanks01.tif	bare-soil sand tanks	False
+storagetanks02.tif	sand tanks	False
+storagetanks03.tif	buildings grass pavement tanks	False
+storagetanks04.tif	buildings cars grass pavement tanks	False
+storagetanks05.tif	buildings grass tanks	False
+storagetanks06.tif	bare-soil cars grass pavement tanks trees	False
+storagetanks07.tif	bare-soil cars grass pavement tanks trees	False
+storagetanks08.tif	buildings pavement tanks	False
+storagetanks09.tif	bare-soil buildings grass pavement tanks	False
+storagetanks10.tif	bare-soil buildings grass pavement tanks	False
+storagetanks11.tif	bare-soil grass pavement tanks	False
+storagetanks12.tif	buildings pavement tanks	False
+storagetanks13.tif	buildings cars grass pavement tanks	False
+storagetanks14.tif	bare-soil cars grass pavement tanks	False
+storagetanks15.tif	bare-soil cars grass pavement tanks	False
+storagetanks16.tif	bare-soil buildings grass pavement tanks	False
+storagetanks17.tif	buildings cars grass pavement tanks trees	False
+storagetanks18.tif	bare-soil buildings cars grass pavement tanks	False
+storagetanks19.tif	buildings cars grass pavement tanks	False
+storagetanks20.tif	bare-soil buildings cars pavement tanks	False
+storagetanks21.tif	bare-soil pavement tanks trees	False
+storagetanks22.tif	buildings pavement tanks trees	False
+storagetanks23.tif	bare-soil buildings pavement tanks	False
+storagetanks24.tif	sand tanks trees	False
+storagetanks25.tif	bare-soil grass tanks	False
+storagetanks26.tif	bare-soil buildings grass pavement tanks	False
+storagetanks27.tif	bare-soil buildings pavement tanks	False
+storagetanks28.tif	bare-soil buildings cars pavement tanks	False
+storagetanks29.tif	bare-soil pavement tanks	False
+storagetanks30.tif	bare-soil buildings cars pavement tanks	False
+storagetanks31.tif	bare-soil pavement tanks	False
+storagetanks32.tif	bare-soil pavement tanks	False
+storagetanks33.tif	bare-soil buildings pavement tanks	False
+storagetanks34.tif	bare-soil cars pavement tanks trees	False
+storagetanks35.tif	bare-soil buildings pavement tanks	False
+storagetanks36.tif	bare-soil pavement tanks	False
+storagetanks37.tif	bare-soil pavement tanks	False
+storagetanks38.tif	bare-soil pavement tanks	False
+storagetanks39.tif	bare-soil pavement tanks	False
+storagetanks40.tif	buildings pavement tanks	False
+storagetanks41.tif	buildings pavement tanks	False
+storagetanks42.tif	bare-soil pavement tanks	False
+storagetanks43.tif	bare-soil buildings pavement sand tanks	False
+storagetanks44.tif	bare-soil buildings cars pavement tanks	False
+storagetanks45.tif	bare-soil pavement tanks	False
+storagetanks46.tif	bare-soil buildings grass pavement tanks	False
+storagetanks47.tif	bare-soil pavement tanks trees	False
+storagetanks48.tif	bare-soil buildings grass pavement tanks	False
+storagetanks49.tif	bare-soil buildings cars grass pavement tanks	False
+storagetanks50.tif	bare-soil buildings cars grass pavement tanks	False
+storagetanks51.tif	bare-soil grass pavement tanks	False
+storagetanks52.tif	bare-soil buildings grass pavement tanks	False
+storagetanks53.tif	bare-soil buildings pavement tanks	False
+storagetanks54.tif	bare-soil cars pavement tanks trees	False
+storagetanks55.tif	bare-soil buildings grass pavement tanks	False
+storagetanks56.tif	bare-soil buildings grass pavement tanks	False
+storagetanks57.tif	bare-soil buildings cars grass pavement tanks trees	False
+storagetanks58.tif	bare-soil buildings cars grass pavement tanks	False
+storagetanks59.tif	bare-soil buildings grass pavement tanks	False
+storagetanks60.tif	bare-soil grass pavement tanks	False
+storagetanks61.tif	bare-soil buildings pavement tanks	False
+storagetanks62.tif	bare-soil buildings pavement tanks	False
+storagetanks63.tif	cars grass pavement tanks	False
+storagetanks64.tif	bare-soil buildings cars pavement tanks	False
+storagetanks65.tif	bare-soil buildings grass pavement tanks trees	False
+storagetanks66.tif	bare-soil buildings cars grass pavement tanks trees	False
+storagetanks67.tif	bare-soil grass pavement tanks	False
+storagetanks68.tif	bare-soil buildings grass pavement tanks trees	False
+storagetanks69.tif	bare-soil buildings cars grass pavement tanks trees	False
+storagetanks70.tif	bare-soil buildings cars grass pavement tanks	False
+storagetanks71.tif	bare-soil tanks trees	False
+storagetanks72.tif	bare-soil buildings sand tanks trees	False
+storagetanks73.tif	grass pavement sand tanks	False
+storagetanks74.tif	pavement sand tanks	False
+storagetanks75.tif	buildings cars pavement sand tanks	False
+storagetanks76.tif	pavement sand tanks trees	False
+storagetanks77.tif	buildings pavement sand tanks trees	False
+storagetanks78.tif	pavement sand tanks	False
+storagetanks79.tif	cars pavement sand tanks	False
+storagetanks80.tif	pavement sand tanks trees	False
+storagetanks81.tif	pavement sand tanks trees	False
+storagetanks82.tif	bare-soil buildings cars pavement sand tanks trees	False
+storagetanks83.tif	bare-soil cars pavement tanks trees	False
+storagetanks84.tif	pavement sand tanks	False
+storagetanks85.tif	bare-soil sand tanks	False
+storagetanks86.tif	pavement tanks	False
+storagetanks87.tif	bare-soil pavement tanks	False
+storagetanks88.tif	bare-soil buildings cars pavement tanks trees	False
+storagetanks89.tif	pavement sand tanks trees	False
+storagetanks90.tif	buildings cars pavement sand tanks	False
+storagetanks91.tif	buildings pavement sand tanks trees	False
+storagetanks92.tif	buildings pavement sand tanks trees water	False
+storagetanks93.tif	bare-soil buildings pavement tanks trees water	False
+storagetanks94.tif	buildings pavement sand tanks trees	False
+storagetanks95.tif	buildings cars pavement sand tanks trees	False
+storagetanks96.tif	pavement sand tanks trees	False
+storagetanks97.tif	buildings pavement sand tanks trees	False
+storagetanks98.tif	buildings sand tanks trees	False
+storagetanks99.tif	buildings pavement sand tanks trees	False
+tenniscourt00.tif	court grass pavement trees	False
+tenniscourt01.tif	buildings cars court pavement	False
+tenniscourt02.tif	bare-soil buildings cars court grass trees	False
+tenniscourt03.tif	bare-soil buildings court grass pavement trees	False
+tenniscourt04.tif	buildings cars court grass pavement trees	False
+tenniscourt05.tif	bare-soil buildings court grass trees	False
+tenniscourt06.tif	cars court grass pavement trees	False
+tenniscourt07.tif	buildings court grass pavement	False
+tenniscourt08.tif	bare-soil buildings court grass trees	False
+tenniscourt09.tif	court grass trees	False
+tenniscourt10.tif	buildings court pavement	False
+tenniscourt11.tif	bare-soil court grass trees	False
+tenniscourt12.tif	bare-soil buildings court grass pavement	False
+tenniscourt13.tif	bare-soil court grass	False
+tenniscourt14.tif	buildings court grass pavement trees	False
+tenniscourt15.tif	buildings cars court grass pavement trees	False
+tenniscourt16.tif	buildings court grass pavement trees	False
+tenniscourt17.tif	buildings cars court grass pavement trees	False
+tenniscourt18.tif	bare-soil court grass trees	False
+tenniscourt19.tif	bare-soil cars court grass trees	False
+tenniscourt20.tif	court grass trees	False
+tenniscourt21.tif	buildings cars court grass trees	False
+tenniscourt22.tif	buildings court grass trees	False
+tenniscourt23.tif	court grass	False
+tenniscourt24.tif	bare-soil court grass trees	False
+tenniscourt25.tif	court grass trees	False
+tenniscourt26.tif	court grass trees	False
+tenniscourt27.tif	bare-soil court grass trees	False
+tenniscourt28.tif	buildings court grass pavement trees	False
+tenniscourt29.tif	buildings cars court grass pavement trees	False
+tenniscourt30.tif	court grass trees	False
+tenniscourt31.tif	buildings court pavement	False
+tenniscourt32.tif	bare-soil cars court grass pavement trees	False
+tenniscourt33.tif	court grass trees	False
+tenniscourt34.tif	court grass sand trees	False
+tenniscourt35.tif	buildings cars court grass pavement trees	False
+tenniscourt36.tif	bare-soil buildings cars court grass pavement trees	False
+tenniscourt37.tif	bare-soil cars court pavement trees	False
+tenniscourt38.tif	bare-soil court grass pavement trees	False
+tenniscourt39.tif	cars court pavement trees	False
+tenniscourt40.tif	buildings cars court grass pavement trees	False
+tenniscourt41.tif	buildings court grass pavement trees	False
+tenniscourt42.tif	bare-soil buildings cars court pavement trees	False
+tenniscourt43.tif	bare-soil buildings court grass pavement trees	False
+tenniscourt44.tif	bare-soil cars court pavement trees	False
+tenniscourt45.tif	buildings court trees	False
+tenniscourt46.tif	buildings court grass pavement trees	False
+tenniscourt47.tif	buildings court grass pavement sand trees	False
+tenniscourt48.tif	buildings cars court grass pavement trees	False
+tenniscourt49.tif	buildings cars court grass pavement trees	False
+tenniscourt50.tif	buildings cars court grass pavement trees	False
+tenniscourt51.tif	cars court grass pavement trees	False
+tenniscourt52.tif	buildings cars court grass pavement trees	False
+tenniscourt53.tif	cars court grass pavement trees	False
+tenniscourt54.tif	buildings cars court grass pavement trees	False
+tenniscourt55.tif	bare-soil buildings court grass pavement trees	False
+tenniscourt56.tif	buildings cars court grass pavement trees	False
+tenniscourt57.tif	bare-soil buildings cars court grass trees	False
+tenniscourt58.tif	bare-soil buildings cars court pavement trees	False
+tenniscourt59.tif	bare-soil cars court grass pavement trees	False
+tenniscourt60.tif	bare-soil buildings court grass trees	False
+tenniscourt61.tif	buildings cars court grass pavement trees	False
+tenniscourt62.tif	bare-soil court grass pavement trees	False
+tenniscourt63.tif	court grass pavement trees	False
+tenniscourt64.tif	buildings court grass trees	False
+tenniscourt65.tif	buildings cars court pavement trees	False
+tenniscourt66.tif	cars court grass pavement trees	False
+tenniscourt67.tif	bare-soil buildings cars court grass pavement trees	False
+tenniscourt68.tif	bare-soil buildings cars court grass trees water	False
+tenniscourt69.tif	buildings cars court grass pavement trees	False
+tenniscourt70.tif	buildings cars court grass pavement trees	False
+tenniscourt71.tif	buildings cars court pavement trees	False
+tenniscourt72.tif	buildings cars court grass pavement trees	False
+tenniscourt73.tif	buildings cars court grass pavement trees	False
+tenniscourt74.tif	buildings cars court pavement trees	False
+tenniscourt75.tif	buildings cars court grass pavement trees	False
+tenniscourt76.tif	bare-soil buildings cars court grass pavement trees	False
+tenniscourt77.tif	buildings cars court grass pavement trees	False
+tenniscourt78.tif	buildings cars court grass pavement trees	False
+tenniscourt79.tif	buildings cars court grass pavement trees	False
+tenniscourt80.tif	bare-soil cars court grass pavement sand	False
+tenniscourt81.tif	court grass trees	False
+tenniscourt82.tif	buildings cars court grass pavement trees	False
+tenniscourt83.tif	buildings cars court pavement trees	False
+tenniscourt84.tif	buildings court grass	False
+tenniscourt85.tif	bare-soil court grass trees	False
+tenniscourt86.tif	buildings court grass pavement trees	False
+tenniscourt87.tif	bare-soil court grass pavement	False
+tenniscourt88.tif	bare-soil court grass trees	False
+tenniscourt89.tif	bare-soil court grass trees	False
+tenniscourt90.tif	bare-soil court grass trees	False
+tenniscourt91.tif	bare-soil court grass pavement trees	False
+tenniscourt92.tif	bare-soil court grass pavement trees	False
+tenniscourt93.tif	buildings cars court grass pavement trees	False
+tenniscourt94.tif	bare-soil court grass pavement trees	False
+tenniscourt95.tif	bare-soil court grass pavement	False
+tenniscourt96.tif	bare-soil buildings cars court grass pavement trees	False
+tenniscourt97.tif	bare-soil buildings cars court grass pavement trees	False
+tenniscourt98.tif	bare-soil buildings cars court grass pavement trees	False
+tenniscourt99.tif	bare-soil cars court grass pavement trees	False
